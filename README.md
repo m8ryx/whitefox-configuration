@@ -4,4 +4,4 @@ Currently, I'm experimenting with raised keys over on the right like Delete and 
 
 ![My WhiteFox layout](./images/whitefox_v1.jpg)
 
-![My WhiteFox config](./images/whitefox_config_v1.jpg)
+![My WhiteFox config](./images/whitefox_config_v1.png)
