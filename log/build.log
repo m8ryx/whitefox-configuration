@@ -1,13 +1,13 @@
-cgi-bin/build_layout.bash a9eea89d77335178045081fe6ee4804115ac0296660415 WhiteFox truefox "WhiteFox-TrueFoxBlank-0.kll" "WhiteFox-TrueFoxBlank-1.kll" "WhiteFox-TrueFoxBlank-2.kll" "WhiteFox-TrueFoxBlank-3.kll" "WhiteFox-TrueFoxBlank-4.kll"  2>&1
+cgi-bin/build_layout.bash 9b6013fbfc0d08ece9cca1f61f32c71415ac086f084ee2 WhiteFox truefox "WhiteFox-TrueFoxBlank-0.kll" "WhiteFox-TrueFoxBlank-1.kll" "WhiteFox-TrueFoxBlank-2.kll" "WhiteFox-TrueFoxBlank-3.kll" "WhiteFox-TrueFoxBlank-4.kll"  2>&1
 + BaseMapOverride='scancode_map scancode_map.truefox'
 + DefaultMapOverride='stdFuncMap WhiteFox-TrueFoxBlank-0'
 + PartialMapsExpandedOverride='stdFuncMap WhiteFox-TrueFoxBlank-1;stdFuncMap WhiteFox-TrueFoxBlank-2;stdFuncMap WhiteFox-TrueFoxBlank-3;stdFuncMap WhiteFox-TrueFoxBlank-4'
 + CMakeExtraArgs=-DCONFIGURATOR=1
-+ /srv/KiiConf/controller/Keyboards/whitefox.bash -c /srv/KiiConf/controller -o /srv/KiiConf/tmp/a9eea89d77335178045081fe6ee4804115ac0296660415
++ /srv/KiiConf/controller/Keyboards/whitefox.bash -c /srv/KiiConf/controller -o /srv/KiiConf/tmp/9b6013fbfc0d08ece9cca1f61f32c71415ac086f084ee2
 linux-gnu/Linux is supported.
 Unix Build
 Selected Generator: Ninja
-/srv/KiiConf/tmp/a9eea89d77335178045081fe6ee4804115ac0296660415
+/srv/KiiConf/tmp/9b6013fbfc0d08ece9cca1f61f32c71415ac086f084ee2
 -- Build CPU Detected:
 x86_64
 -- Build Kernel Detected:
@@ -31,7 +31,7 @@ dfu
 -- Detected Scan Module Source Files:
 Scan/Devices/ISSILed/i2c.c;Scan/Devices/ISSILed/led_scan.c;Scan/Devices/MatrixARMPeriodic/matrix_scan.c;Scan/WhiteFox/scan_loop.c
 -- Detected Macro Module Source Files:
-Macro/PartialMap/kll.c;Macro/PartialMap/layer.c;Macro/PartialMap/macro.c;Macro/PartialMap/result.c;Macro/PartialMap/trigger.c;Macro/PixelMap/pixel.c;/srv/KiiConf/tmp/a9eea89d77335178045081fe6ee4804115ac0296660415/generatedPixelmap.c
+Macro/PartialMap/kll.c;Macro/PartialMap/layer.c;Macro/PartialMap/macro.c;Macro/PartialMap/result.c;Macro/PartialMap/trigger.c;Macro/PixelMap/pixel.c;/srv/KiiConf/tmp/9b6013fbfc0d08ece9cca1f61f32c71415ac086f084ee2/generatedPixelmap.c
 -- Detected Output Module Source Files:
 Output/HID-IO/hidio_com.c;Output/Interface/output_gen.c;Output/USB/output_com.c;Output/USB/output_usb.c;Output/USB/arm/usb_desc.c;Output/USB/arm/usb_dev.c;Output/USB/arm/usb_joystick.c;Output/USB/arm/usb_keyboard.c;Output/USB/arm/usb_mem.c;Output/USB/arm/usb_mouse.c;Output/USB/arm/usb_rawio.c;Output/USB/arm/usb_serial.c
 -- Detected Debug Module Source Files:
@@ -55,26 +55,26 @@ ctags-exuberant: cannot open tag file : Permission denied
 /srv/KiiConf/controller/Scan/WhiteFox/scancode_map.kll
 /srv/KiiConf/controller/Scan/WhiteFox/scancode_map.truefox.kll
 /srv/KiiConf/controller/kll/layouts/stdFuncMap.kll
-/srv/KiiConf/tmp/a9eea89d77335178045081fe6ee4804115ac0296660415/WhiteFox-TrueFoxBlank-0.kll
+/srv/KiiConf/tmp/9b6013fbfc0d08ece9cca1f61f32c71415ac086f084ee2/WhiteFox-TrueFoxBlank-0.kll
 /srv/KiiConf/controller/kll/layouts/stdFuncMap.kll
-/srv/KiiConf/tmp/a9eea89d77335178045081fe6ee4804115ac0296660415/WhiteFox-TrueFoxBlank-1.kll
+/srv/KiiConf/tmp/9b6013fbfc0d08ece9cca1f61f32c71415ac086f084ee2/WhiteFox-TrueFoxBlank-1.kll
 /srv/KiiConf/controller/kll/layouts/stdFuncMap.kll
-/srv/KiiConf/tmp/a9eea89d77335178045081fe6ee4804115ac0296660415/WhiteFox-TrueFoxBlank-2.kll
+/srv/KiiConf/tmp/9b6013fbfc0d08ece9cca1f61f32c71415ac086f084ee2/WhiteFox-TrueFoxBlank-2.kll
 /srv/KiiConf/controller/kll/layouts/stdFuncMap.kll
-/srv/KiiConf/tmp/a9eea89d77335178045081fe6ee4804115ac0296660415/WhiteFox-TrueFoxBlank-3.kll
+/srv/KiiConf/tmp/9b6013fbfc0d08ece9cca1f61f32c71415ac086f084ee2/WhiteFox-TrueFoxBlank-3.kll
 /srv/KiiConf/controller/kll/layouts/stdFuncMap.kll
-/srv/KiiConf/tmp/a9eea89d77335178045081fe6ee4804115ac0296660415/WhiteFox-TrueFoxBlank-4.kll
+/srv/KiiConf/tmp/9b6013fbfc0d08ece9cca1f61f32c71415ac086f084ee2/WhiteFox-TrueFoxBlank-4.kll
 -- Found DFU_SUFFIX: /usr/local/bin/dfu-suffix (found version "0.8") 
 -- Configuring done
 -- Generating done
--- Build files have been written to: /srv/KiiConf/tmp/a9eea89d77335178045081fe6ee4804115ac0296660415
+-- Build files have been written to: /srv/KiiConf/tmp/9b6013fbfc0d08ece9cca1f61f32c71415ac086f084ee2
 [1/37] Generating KLL Layout
 kll BETA 0.5c.1528a3eb3c89189d651f31a2f81dab92f63adb2a - 2018-03-24 19:32:10 -0700
 -- Generating --
-/srv/KiiConf/tmp/a9eea89d77335178045081fe6ee4804115ac0296660415/kll_defs.h
-/srv/KiiConf/tmp/a9eea89d77335178045081fe6ee4804115ac0296660415/generatedKeymap.h
-/srv/KiiConf/tmp/a9eea89d77335178045081fe6ee4804115ac0296660415/generatedPixelmap.c
-/srv/KiiConf/tmp/a9eea89d77335178045081fe6ee4804115ac0296660415/kll.json
+/srv/KiiConf/tmp/9b6013fbfc0d08ece9cca1f61f32c71415ac086f084ee2/kll_defs.h
+/srv/KiiConf/tmp/9b6013fbfc0d08ece9cca1f61f32c71415ac086f084ee2/generatedKeymap.h
+/srv/KiiConf/tmp/9b6013fbfc0d08ece9cca1f61f32c71415ac086f084ee2/generatedPixelmap.c
+/srv/KiiConf/tmp/9b6013fbfc0d08ece9cca1f61f32c71415ac086f084ee2/kll.json
 [2/37] Building C object CMakeFiles/kiibohd.dir/main.c.o
 [3/37] Building C object CMakeFiles/kiibohd.dir/Lib/kinetis.c.o
 [4/37] Building C object CMakeFiles/kiibohd.dir/Lib/delay.c.o
@@ -119,9 +119,9 @@ See lsusb -d 1c11: -v and look for iInterface 4 Kiibohd DFU Secure.
 Otherwise, use the kiibohd.dfu.bin file when it says iInterface 4 Kiibohd DFU.
 Use the physical reset button on the back of the keyboard to temporarily disable secure mode.
 NOTE2: Secure mode is disabled currently, but will be enabled when key negotiation is supported.
-	 SRAM: 	18% 	11832/65536	bytes
-	Flash: 	23% 	59588/253952	bytes
-Firmware has been compiled into: '/srv/KiiConf/tmp/a9eea89d77335178045081fe6ee4804115ac0296660415'
+	 SRAM: 	18% 	11828/65536	bytes
+	Flash: 	23% 	59564/253952	bytes
+Firmware has been compiled into: '/srv/KiiConf/tmp/9b6013fbfc0d08ece9cca1f61f32c71415ac086f084ee2'
 /srv/KiiConf/dist
 + RETVAL=0
 + set +x

@@ -26,12 +26,8 @@
                     "label": "ESC"
                 },
                 "1": {
-                    "key": "#:None",
-                    "label": "NONE"
-                },
-                "2": {
-                    "key": "#:None",
-                    "label": "NONE"
+                    "key": "LCK1",
+                    "label": "LOCK-1"
                 }
             }
         },
@@ -348,14 +344,6 @@
                 "0": {
                     "key": "TAB",
                     "label": "TAB"
-                },
-                "1": {
-                    "key": "CONS:SCANNEXTTRACK",
-                    "label": "NEXT"
-                },
-                "3": {
-                    "key": "CONS:SCANNEXTTRACK",
-                    "label": "NEXT"
                 }
             }
         },
@@ -499,6 +487,14 @@
                 "0": {
                     "key": "LBRACE",
                     "label": "["
+                },
+                "1": {
+                    "key": "CONS:SCANPREVIOUSTRACK",
+                    "label": "PREV"
+                },
+                "3": {
+                    "key": "CONS:SCANPREVIOUSTRACK",
+                    "label": "PREV"
                 }
             }
         },
@@ -512,6 +508,14 @@
                 "0": {
                     "key": "RBRACE",
                     "label": "]"
+                },
+                "1": {
+                    "key": "CONS:SCANNEXTTRACK",
+                    "label": "NEXT"
+                },
+                "3": {
+                    "key": "CONS:SCANNEXTTRACK",
+                    "label": "NEXT"
                 }
             }
         },
@@ -525,14 +529,6 @@
                 "0": {
                     "key": "BACKSPACE",
                     "label": "BKSP"
-                },
-                "1": {
-                    "key": "CONS:SCANPREVIOUSTRACK",
-                    "label": "PREV"
-                },
-                "3": {
-                    "key": "CONS:SCANPREVIOUSTRACK",
-                    "label": "PREV"
                 }
             }
         },

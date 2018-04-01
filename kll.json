@@ -1801,11 +1801,18 @@
         },
         "1": {
             ":0 S001": {
-                "kll": "S0x001 : None;",
+                "kll": "S0x001 : layerLock(1);",
                 "result": [
                     [
                         {
-                            "type": "None"
+                            "args": [
+                                {
+                                    "type": "CapArgValue",
+                                    "value": 1
+                                }
+                            ],
+                            "name": "layerLock",
+                            "type": "Capability"
                         }
                     ]
                 ],
@@ -2084,27 +2091,8 @@
                     ]
                 ]
             },
-            ":0 S017": {
-                "kll": "S0x011 : CONS0x0b5;",
-                "result": [
-                    [
-                        {
-                            "type": "ConsCode",
-                            "uid": 181
-                        }
-                    ]
-                ],
-                "trigger": [
-                    [
-                        {
-                            "type": "ScanCode",
-                            "uid": 17
-                        }
-                    ]
-                ]
-            },
-            ":0 S030": {
-                "kll": "S0x01e : CONS0x0b6;",
+            ":0 S028": {
+                "kll": "S0x01c : CONS0x0b6;",
                 "result": [
                     [
                         {
@@ -2117,7 +2105,26 @@
                     [
                         {
                             "type": "ScanCode",
-                            "uid": 30
+                            "uid": 28
+                        }
+                    ]
+                ]
+            },
+            ":0 S029": {
+                "kll": "S0x01d : CONS0x0b5;",
+                "result": [
+                    [
+                        {
+                            "type": "ConsCode",
+                            "uid": 181
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 29
                         }
                     ]
                 ]
@@ -2263,24 +2270,6 @@
             }
         },
         "2": {
-            ":0 S001": {
-                "kll": "S0x001 : None;",
-                "result": [
-                    [
-                        {
-                            "type": "None"
-                        }
-                    ]
-                ],
-                "trigger": [
-                    [
-                        {
-                            "type": "ScanCode",
-                            "uid": 1
-                        }
-                    ]
-                ]
-            },
             ":0 S002": {
                 "kll": "S0x002 : layerLock(1);",
                 "result": [
@@ -2605,27 +2594,8 @@
                     ]
                 ]
             },
-            ":0 S017": {
-                "kll": "S0x011 : CONS0x0b5;",
-                "result": [
-                    [
-                        {
-                            "type": "ConsCode",
-                            "uid": 181
-                        }
-                    ]
-                ],
-                "trigger": [
-                    [
-                        {
-                            "type": "ScanCode",
-                            "uid": 17
-                        }
-                    ]
-                ]
-            },
-            ":0 S030": {
-                "kll": "S0x01e : CONS0x0b6;",
+            ":0 S028": {
+                "kll": "S0x01c : CONS0x0b6;",
                 "result": [
                     [
                         {
@@ -2638,7 +2608,26 @@
                     [
                         {
                             "type": "ScanCode",
-                            "uid": 30
+                            "uid": 28
+                        }
+                    ]
+                ]
+            },
+            ":0 S029": {
+                "kll": "S0x01d : CONS0x0b5;",
+                "result": [
+                    [
+                        {
+                            "type": "ConsCode",
+                            "uid": 181
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 29
                         }
                     ]
                 ]
