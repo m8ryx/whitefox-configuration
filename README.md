@@ -59,4 +59,5 @@ Cleaned up a few keys, Tab is now always tab, and ESC is a way out of Lock-1.
 
 I should probably remove Lock-1 from Layer 2 as Layer 1 is intended as just a modifier layer.
 
-
+### Todo
+- Remove Locks for layers 1 and 4, convert to Latches
