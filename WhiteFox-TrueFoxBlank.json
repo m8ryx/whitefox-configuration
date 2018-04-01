@@ -597,6 +597,10 @@
                 "0": {
                     "key": "BACKSPACE",
                     "label": "BKSP"
+                },
+                "7": {
+                    "key": "#:None",
+                    "label": "NONE"
                 }
             }
         },
@@ -618,6 +622,10 @@
                 "3": {
                     "key": "CONS:STOP",
                     "label": "STOP"
+                },
+                "7": {
+                    "key": "#:None",
+                    "label": "NONE"
                 }
             }
         },

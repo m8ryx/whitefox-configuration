@@ -48,6 +48,13 @@
 //    --partial
 //      /srv/KiiConf/controller/kll/layouts/stdFuncMap.kll
 //      WhiteFox-TrueFoxBlank-4.kll
+//    --partial
+//      /srv/KiiConf/controller/kll/layouts/stdFuncMap.kll
+//    --partial
+//      /srv/KiiConf/controller/kll/layouts/stdFuncMap.kll
+//    --partial
+//      /srv/KiiConf/controller/kll/layouts/stdFuncMap.kll
+//      WhiteFox-TrueFoxBlank-7.kll
 //    --emitter
 //      kiibohd
 //    --def-template
@@ -63,55 +70,66 @@
 //    --pixel-output
 //      generatedPixelmap.c
 //    --preprocessor-tmp-path
-//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll
+//      /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll
 //
 // - Configuration File -
 //    ISSILedCapabilities
-//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Scan_Devices_ISSILed@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_Scan_Devices_ISSILed@['capabilities']_processed.kll
 //    MatrixARMPeriodicCapabilities
-//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Scan_Devices_MatrixARMPeriodic@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_Scan_Devices_MatrixARMPeriodic@['capabilities']_processed.kll
 //    PartialMapCapabilities
-//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Macro_PartialMap@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_Macro_PartialMap@['capabilities']_processed.kll
 //    PixelMapCapabilities
-//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Macro_PixelMap@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_Macro_PixelMap@['capabilities']_processed.kll
 //    HID-IOCapabilities
-//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Output_HID-IO@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_Output_HID-IO@['capabilities']_processed.kll
 //    USBCapabilities
-//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Output_USB@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_Output_USB@['capabilities']_processed.kll
 //    latency
-//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Debug_latency@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_Debug_latency@['capabilities']_processed.kll
 // - Generic Files -
 // - Base Layer -
 //    WhiteFox
-//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Scan_WhiteFox@['scancode_map']_processed.kll
+//      /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_Scan_WhiteFox@['scancode_map']_processed.kll
 //    TrueFox
-//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Scan_WhiteFox@['scancode_map', 'truefox']_processed.kll
+//      /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_Scan_WhiteFox@['scancode_map', 'truefox']_processed.kll
 // - Default Layer -
 //    stdFuncMap
-//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//      /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
 //    WhiteFox
-//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/@['WhiteFox-TrueFoxBlank-0']_processed.kll
+//      /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/@['WhiteFox-TrueFoxBlank-0']_processed.kll
 // - Partial Layers -
 //    Layer 1
 //     stdFuncMap
-//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//       /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
 //     WhiteFox
-//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/@['WhiteFox-TrueFoxBlank-1']_processed.kll
+//       /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/@['WhiteFox-TrueFoxBlank-1']_processed.kll
 //    Layer 2
 //     stdFuncMap
-//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//       /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
 //     WhiteFox
-//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/@['WhiteFox-TrueFoxBlank-2']_processed.kll
+//       /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/@['WhiteFox-TrueFoxBlank-2']_processed.kll
 //    Layer 3
 //     stdFuncMap
-//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//       /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
 //     WhiteFox
-//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/@['WhiteFox-TrueFoxBlank-3']_processed.kll
+//       /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/@['WhiteFox-TrueFoxBlank-3']_processed.kll
 //    Layer 4
 //     stdFuncMap
-//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//       /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
 //     WhiteFox
-//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/@['WhiteFox-TrueFoxBlank-4']_processed.kll
+//       /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/@['WhiteFox-TrueFoxBlank-4']_processed.kll
+//    Layer 5
+//     stdFuncMap
+//       /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//    Layer 6
+//     stdFuncMap
+//       /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//    Layer 7
+//     stdFuncMap
+//       /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//     WhiteFox
+//       /srv/KiiConf/tmp/d103d4c226479ef8f316acbf2da878ca15ac16f9a40b1d/tmp_kll/@['WhiteFox-TrueFoxBlank-7']_processed.kll
 
 
 
@@ -209,97 +227,98 @@ Guide_RM( 4 ) = { 1, 8, 226, 0, 0 }; // (HID(ConsCode)"CONSUMER_MUTE")
 Guide_RM( 5 ) = { 1, 8, 233, 0, 0 }; // (HID(ConsCode)"CONSUMER_VOLUME_UP")
 Guide_RM( 6 ) = { 1, 8, 234, 0, 0 }; // (HID(ConsCode)"CONSUMER_VOLUME_DOWN")
 Guide_RM( 7 ) = { 1, 8, 38, 2, 0 }; // (HID(ConsCode)"AC_STOP")
-Guide_RM( 8 ) = { 1, 13, SYS_SLEEP, 0 }; // (HID(SysCode)"SYS_SLEEP")
-Guide_RM( 9 ) = { 1, 15, KEY_A, 0 }; // (HID(USBCode)"KEY_A")
-Guide_RM( 10 ) = { 1, 15, KEY_B, 0 }; // (HID(USBCode)"KEY_B")
-Guide_RM( 11 ) = { 1, 15, KEY_C, 0 }; // (HID(USBCode)"KEY_C")
-Guide_RM( 12 ) = { 1, 15, KEY_D, 0 }; // (HID(USBCode)"KEY_D")
-Guide_RM( 13 ) = { 1, 15, KEY_E, 0 }; // (HID(USBCode)"KEY_E")
-Guide_RM( 14 ) = { 1, 15, KEY_F, 0 }; // (HID(USBCode)"KEY_F")
-Guide_RM( 15 ) = { 1, 15, KEY_G, 0 }; // (HID(USBCode)"KEY_G")
-Guide_RM( 16 ) = { 1, 15, KEY_H, 0 }; // (HID(USBCode)"KEY_H")
-Guide_RM( 17 ) = { 1, 15, KEY_I, 0 }; // (HID(USBCode)"KEY_I")
-Guide_RM( 18 ) = { 1, 15, KEY_J, 0 }; // (HID(USBCode)"KEY_J")
-Guide_RM( 19 ) = { 1, 15, KEY_K, 0 }; // (HID(USBCode)"KEY_K")
-Guide_RM( 20 ) = { 1, 15, KEY_L, 0 }; // (HID(USBCode)"KEY_L")
-Guide_RM( 21 ) = { 1, 15, KEY_M, 0 }; // (HID(USBCode)"KEY_M")
-Guide_RM( 22 ) = { 1, 15, KEY_N, 0 }; // (HID(USBCode)"KEY_N")
-Guide_RM( 23 ) = { 1, 15, KEY_O, 0 }; // (HID(USBCode)"KEY_O")
-Guide_RM( 24 ) = { 1, 15, KEY_P, 0 }; // (HID(USBCode)"KEY_P")
-Guide_RM( 25 ) = { 1, 15, KEY_Q, 0 }; // (HID(USBCode)"KEY_Q")
-Guide_RM( 26 ) = { 1, 15, KEY_R, 0 }; // (HID(USBCode)"KEY_R")
-Guide_RM( 27 ) = { 1, 15, KEY_S, 0 }; // (HID(USBCode)"KEY_S")
-Guide_RM( 28 ) = { 1, 15, KEY_T, 0 }; // (HID(USBCode)"KEY_T")
-Guide_RM( 29 ) = { 1, 15, KEY_U, 0 }; // (HID(USBCode)"KEY_U")
-Guide_RM( 30 ) = { 1, 15, KEY_V, 0 }; // (HID(USBCode)"KEY_V")
-Guide_RM( 31 ) = { 1, 15, KEY_W, 0 }; // (HID(USBCode)"KEY_W")
-Guide_RM( 32 ) = { 1, 15, KEY_X, 0 }; // (HID(USBCode)"KEY_X")
-Guide_RM( 33 ) = { 1, 15, KEY_Y, 0 }; // (HID(USBCode)"KEY_Y")
-Guide_RM( 34 ) = { 1, 15, KEY_Z, 0 }; // (HID(USBCode)"KEY_Z")
-Guide_RM( 35 ) = { 1, 15, KEY_1, 0 }; // (HID(USBCode)"KEY_1")
-Guide_RM( 36 ) = { 1, 15, KEY_2, 0 }; // (HID(USBCode)"KEY_2")
-Guide_RM( 37 ) = { 1, 15, KEY_3, 0 }; // (HID(USBCode)"KEY_3")
-Guide_RM( 38 ) = { 1, 15, KEY_4, 0 }; // (HID(USBCode)"KEY_4")
-Guide_RM( 39 ) = { 1, 15, KEY_5, 0 }; // (HID(USBCode)"KEY_5")
-Guide_RM( 40 ) = { 1, 15, KEY_6, 0 }; // (HID(USBCode)"KEY_6")
-Guide_RM( 41 ) = { 1, 15, KEY_7, 0 }; // (HID(USBCode)"KEY_7")
-Guide_RM( 42 ) = { 1, 15, KEY_8, 0 }; // (HID(USBCode)"KEY_8")
-Guide_RM( 43 ) = { 1, 15, KEY_9, 0 }; // (HID(USBCode)"KEY_9")
-Guide_RM( 44 ) = { 1, 15, KEY_0, 0 }; // (HID(USBCode)"KEY_0")
-Guide_RM( 45 ) = { 1, 15, KEY_ENTER, 0 }; // (HID(USBCode)"KEY_ENTER")
-Guide_RM( 46 ) = { 1, 15, KEY_ESC, 0 }; // (HID(USBCode)"KEY_ESC")
-Guide_RM( 47 ) = { 1, 15, KEY_BACKSPACE, 0 }; // (HID(USBCode)"KEY_BACKSPACE")
-Guide_RM( 48 ) = { 1, 15, KEY_TAB, 0 }; // (HID(USBCode)"KEY_TAB")
-Guide_RM( 49 ) = { 1, 15, KEY_SPACE, 0 }; // (HID(USBCode)"KEY_SPACE")
-Guide_RM( 50 ) = { 1, 15, KEY_MINUS, 0 }; // (HID(USBCode)"KEY_MINUS")
-Guide_RM( 51 ) = { 1, 15, KEY_EQUAL, 0 }; // (HID(USBCode)"KEY_EQUAL")
-Guide_RM( 52 ) = { 1, 15, KEY_LEFT_BRACKET, 0 }; // (HID(USBCode)"KEY_LEFT_BRACKET")
-Guide_RM( 53 ) = { 1, 15, KEY_RIGHT_BRACKET, 0 }; // (HID(USBCode)"KEY_RIGHT_BRACKET")
-Guide_RM( 54 ) = { 1, 15, KEY_BACKSLASH, 0 }; // (HID(USBCode)"KEY_BACKSLASH")
-Guide_RM( 55 ) = { 1, 15, KEY_SEMICOLON, 0 }; // (HID(USBCode)"KEY_SEMICOLON")
-Guide_RM( 56 ) = { 1, 15, KEY_QUOTE, 0 }; // (HID(USBCode)"KEY_QUOTE")
-Guide_RM( 57 ) = { 1, 15, KEY_BACKTICK, 0 }; // (HID(USBCode)"KEY_BACKTICK")
-Guide_RM( 58 ) = { 1, 15, KEY_COMMA, 0 }; // (HID(USBCode)"KEY_COMMA")
-Guide_RM( 59 ) = { 1, 15, KEY_PERIOD, 0 }; // (HID(USBCode)"KEY_PERIOD")
-Guide_RM( 60 ) = { 1, 15, KEY_SLASH, 0 }; // (HID(USBCode)"KEY_SLASH")
-Guide_RM( 61 ) = { 1, 15, KEY_F1, 0 }; // (HID(USBCode)"KEY_F1")
-Guide_RM( 62 ) = { 1, 15, KEY_F2, 0 }; // (HID(USBCode)"KEY_F2")
-Guide_RM( 63 ) = { 1, 15, KEY_F3, 0 }; // (HID(USBCode)"KEY_F3")
-Guide_RM( 64 ) = { 1, 15, KEY_F4, 0 }; // (HID(USBCode)"KEY_F4")
-Guide_RM( 65 ) = { 1, 15, KEY_F5, 0 }; // (HID(USBCode)"KEY_F5")
-Guide_RM( 66 ) = { 1, 15, KEY_F6, 0 }; // (HID(USBCode)"KEY_F6")
-Guide_RM( 67 ) = { 1, 15, KEY_F7, 0 }; // (HID(USBCode)"KEY_F7")
-Guide_RM( 68 ) = { 1, 15, KEY_F8, 0 }; // (HID(USBCode)"KEY_F8")
-Guide_RM( 69 ) = { 1, 15, KEY_F9, 0 }; // (HID(USBCode)"KEY_F9")
-Guide_RM( 70 ) = { 1, 15, KEY_F10, 0 }; // (HID(USBCode)"KEY_F10")
-Guide_RM( 71 ) = { 1, 15, KEY_PRINTSCREEN, 0 }; // (HID(USBCode)"KEY_PRINTSCREEN")
-Guide_RM( 72 ) = { 1, 15, KEY_HOME, 0 }; // (HID(USBCode)"KEY_HOME")
-Guide_RM( 73 ) = { 1, 15, KEY_PAGE_UP, 0 }; // (HID(USBCode)"KEY_PAGE_UP")
-Guide_RM( 74 ) = { 1, 15, KEY_DELETE, 0 }; // (HID(USBCode)"KEY_DELETE")
-Guide_RM( 75 ) = { 1, 15, KEY_END, 0 }; // (HID(USBCode)"KEY_END")
-Guide_RM( 76 ) = { 1, 15, KEY_PAGE_DOWN, 0 }; // (HID(USBCode)"KEY_PAGE_DOWN")
-Guide_RM( 77 ) = { 1, 15, KEY_RIGHT, 0 }; // (HID(USBCode)"KEY_RIGHT")
-Guide_RM( 78 ) = { 1, 15, KEY_LEFT, 0 }; // (HID(USBCode)"KEY_LEFT")
-Guide_RM( 79 ) = { 1, 15, KEY_DOWN, 0 }; // (HID(USBCode)"KEY_DOWN")
-Guide_RM( 80 ) = { 1, 15, KEY_UP, 0 }; // (HID(USBCode)"KEY_UP")
-Guide_RM( 81 ) = { 1, 15, KEY_LCTRL, 0 }; // (HID(USBCode)"KEY_LCTRL")
-Guide_RM( 82 ) = { 1, 15, KEY_LSHIFT, 0 }; // (HID(USBCode)"KEY_LSHIFT")
-Guide_RM( 83 ) = { 2, 15, KEY_LSHIFT, 15, KEY_1, 0 }; // (HID(USBCode)"KEY_LSHIFT" + HID(USBCode)"KEY_1")
-Guide_RM( 84 ) = { 1, 15, KEY_LALT, 0 }; // (HID(USBCode)"KEY_LALT")
-Guide_RM( 85 ) = { 1, 15, KEY_LGUI, 0 }; // (HID(USBCode)"KEY_LGUI")
-Guide_RM( 86 ) = { 1, 15, KEY_RSHIFT, 0 }; // (HID(USBCode)"KEY_RSHIFT")
-Guide_RM( 87 ) = { 1, 15, KEY_RALT, 0 }; // (HID(USBCode)"KEY_RALT")
-Guide_RM( 88 ) = { 1, 15, KEY_RGUI, 0 }; // (HID(USBCode)"KEY_RGUI")
-Guide_RM( 89 ) = { 1, 1, 1, 0, 0 }; // (layerLatch(1))
-Guide_RM( 90 ) = { 1, 1, 4, 0, 0 }; // (layerLatch(4))
-Guide_RM( 91 ) = { 1, 2, 2, 0, 0 }; // (layerLock(2))
-Guide_RM( 92 ) = { 1, 2, 3, 0, 0 }; // (layerLock(3))
-Guide_RM( 93 ) = { 1, 2, 5, 0, 0 }; // (layerLock(5))
-Guide_RM( 94 ) = { 1, 2, 6, 0, 0 }; // (layerLock(6))
-Guide_RM( 95 ) = { 1, 2, 7, 0, 0 }; // (layerLock(7))
-Guide_RM( 96 ) = { 1, 4, 1, 0, 0 }; // (layerShift(1))
-Guide_RM( 97 ) = { 1, 4, 2, 0, 0 }; // (layerShift(2))
-Guide_RM( 98 ) = { 1, 4, 4, 0, 0 }; // (layerShift(4))
+Guide_RM( 8 ) = { 1, 15, 0x00, 0 }; // (None)
+Guide_RM( 9 ) = { 1, 13, SYS_SLEEP, 0 }; // (HID(SysCode)"SYS_SLEEP")
+Guide_RM( 10 ) = { 1, 15, KEY_A, 0 }; // (HID(USBCode)"KEY_A")
+Guide_RM( 11 ) = { 1, 15, KEY_B, 0 }; // (HID(USBCode)"KEY_B")
+Guide_RM( 12 ) = { 1, 15, KEY_C, 0 }; // (HID(USBCode)"KEY_C")
+Guide_RM( 13 ) = { 1, 15, KEY_D, 0 }; // (HID(USBCode)"KEY_D")
+Guide_RM( 14 ) = { 1, 15, KEY_E, 0 }; // (HID(USBCode)"KEY_E")
+Guide_RM( 15 ) = { 1, 15, KEY_F, 0 }; // (HID(USBCode)"KEY_F")
+Guide_RM( 16 ) = { 1, 15, KEY_G, 0 }; // (HID(USBCode)"KEY_G")
+Guide_RM( 17 ) = { 1, 15, KEY_H, 0 }; // (HID(USBCode)"KEY_H")
+Guide_RM( 18 ) = { 1, 15, KEY_I, 0 }; // (HID(USBCode)"KEY_I")
+Guide_RM( 19 ) = { 1, 15, KEY_J, 0 }; // (HID(USBCode)"KEY_J")
+Guide_RM( 20 ) = { 1, 15, KEY_K, 0 }; // (HID(USBCode)"KEY_K")
+Guide_RM( 21 ) = { 1, 15, KEY_L, 0 }; // (HID(USBCode)"KEY_L")
+Guide_RM( 22 ) = { 1, 15, KEY_M, 0 }; // (HID(USBCode)"KEY_M")
+Guide_RM( 23 ) = { 1, 15, KEY_N, 0 }; // (HID(USBCode)"KEY_N")
+Guide_RM( 24 ) = { 1, 15, KEY_O, 0 }; // (HID(USBCode)"KEY_O")
+Guide_RM( 25 ) = { 1, 15, KEY_P, 0 }; // (HID(USBCode)"KEY_P")
+Guide_RM( 26 ) = { 1, 15, KEY_Q, 0 }; // (HID(USBCode)"KEY_Q")
+Guide_RM( 27 ) = { 1, 15, KEY_R, 0 }; // (HID(USBCode)"KEY_R")
+Guide_RM( 28 ) = { 1, 15, KEY_S, 0 }; // (HID(USBCode)"KEY_S")
+Guide_RM( 29 ) = { 1, 15, KEY_T, 0 }; // (HID(USBCode)"KEY_T")
+Guide_RM( 30 ) = { 1, 15, KEY_U, 0 }; // (HID(USBCode)"KEY_U")
+Guide_RM( 31 ) = { 1, 15, KEY_V, 0 }; // (HID(USBCode)"KEY_V")
+Guide_RM( 32 ) = { 1, 15, KEY_W, 0 }; // (HID(USBCode)"KEY_W")
+Guide_RM( 33 ) = { 1, 15, KEY_X, 0 }; // (HID(USBCode)"KEY_X")
+Guide_RM( 34 ) = { 1, 15, KEY_Y, 0 }; // (HID(USBCode)"KEY_Y")
+Guide_RM( 35 ) = { 1, 15, KEY_Z, 0 }; // (HID(USBCode)"KEY_Z")
+Guide_RM( 36 ) = { 1, 15, KEY_1, 0 }; // (HID(USBCode)"KEY_1")
+Guide_RM( 37 ) = { 1, 15, KEY_2, 0 }; // (HID(USBCode)"KEY_2")
+Guide_RM( 38 ) = { 1, 15, KEY_3, 0 }; // (HID(USBCode)"KEY_3")
+Guide_RM( 39 ) = { 1, 15, KEY_4, 0 }; // (HID(USBCode)"KEY_4")
+Guide_RM( 40 ) = { 1, 15, KEY_5, 0 }; // (HID(USBCode)"KEY_5")
+Guide_RM( 41 ) = { 1, 15, KEY_6, 0 }; // (HID(USBCode)"KEY_6")
+Guide_RM( 42 ) = { 1, 15, KEY_7, 0 }; // (HID(USBCode)"KEY_7")
+Guide_RM( 43 ) = { 1, 15, KEY_8, 0 }; // (HID(USBCode)"KEY_8")
+Guide_RM( 44 ) = { 1, 15, KEY_9, 0 }; // (HID(USBCode)"KEY_9")
+Guide_RM( 45 ) = { 1, 15, KEY_0, 0 }; // (HID(USBCode)"KEY_0")
+Guide_RM( 46 ) = { 1, 15, KEY_ENTER, 0 }; // (HID(USBCode)"KEY_ENTER")
+Guide_RM( 47 ) = { 1, 15, KEY_ESC, 0 }; // (HID(USBCode)"KEY_ESC")
+Guide_RM( 48 ) = { 1, 15, KEY_BACKSPACE, 0 }; // (HID(USBCode)"KEY_BACKSPACE")
+Guide_RM( 49 ) = { 1, 15, KEY_TAB, 0 }; // (HID(USBCode)"KEY_TAB")
+Guide_RM( 50 ) = { 1, 15, KEY_SPACE, 0 }; // (HID(USBCode)"KEY_SPACE")
+Guide_RM( 51 ) = { 1, 15, KEY_MINUS, 0 }; // (HID(USBCode)"KEY_MINUS")
+Guide_RM( 52 ) = { 1, 15, KEY_EQUAL, 0 }; // (HID(USBCode)"KEY_EQUAL")
+Guide_RM( 53 ) = { 1, 15, KEY_LEFT_BRACKET, 0 }; // (HID(USBCode)"KEY_LEFT_BRACKET")
+Guide_RM( 54 ) = { 1, 15, KEY_RIGHT_BRACKET, 0 }; // (HID(USBCode)"KEY_RIGHT_BRACKET")
+Guide_RM( 55 ) = { 1, 15, KEY_BACKSLASH, 0 }; // (HID(USBCode)"KEY_BACKSLASH")
+Guide_RM( 56 ) = { 1, 15, KEY_SEMICOLON, 0 }; // (HID(USBCode)"KEY_SEMICOLON")
+Guide_RM( 57 ) = { 1, 15, KEY_QUOTE, 0 }; // (HID(USBCode)"KEY_QUOTE")
+Guide_RM( 58 ) = { 1, 15, KEY_BACKTICK, 0 }; // (HID(USBCode)"KEY_BACKTICK")
+Guide_RM( 59 ) = { 1, 15, KEY_COMMA, 0 }; // (HID(USBCode)"KEY_COMMA")
+Guide_RM( 60 ) = { 1, 15, KEY_PERIOD, 0 }; // (HID(USBCode)"KEY_PERIOD")
+Guide_RM( 61 ) = { 1, 15, KEY_SLASH, 0 }; // (HID(USBCode)"KEY_SLASH")
+Guide_RM( 62 ) = { 1, 15, KEY_F1, 0 }; // (HID(USBCode)"KEY_F1")
+Guide_RM( 63 ) = { 1, 15, KEY_F2, 0 }; // (HID(USBCode)"KEY_F2")
+Guide_RM( 64 ) = { 1, 15, KEY_F3, 0 }; // (HID(USBCode)"KEY_F3")
+Guide_RM( 65 ) = { 1, 15, KEY_F4, 0 }; // (HID(USBCode)"KEY_F4")
+Guide_RM( 66 ) = { 1, 15, KEY_F5, 0 }; // (HID(USBCode)"KEY_F5")
+Guide_RM( 67 ) = { 1, 15, KEY_F6, 0 }; // (HID(USBCode)"KEY_F6")
+Guide_RM( 68 ) = { 1, 15, KEY_F7, 0 }; // (HID(USBCode)"KEY_F7")
+Guide_RM( 69 ) = { 1, 15, KEY_F8, 0 }; // (HID(USBCode)"KEY_F8")
+Guide_RM( 70 ) = { 1, 15, KEY_F9, 0 }; // (HID(USBCode)"KEY_F9")
+Guide_RM( 71 ) = { 1, 15, KEY_F10, 0 }; // (HID(USBCode)"KEY_F10")
+Guide_RM( 72 ) = { 1, 15, KEY_PRINTSCREEN, 0 }; // (HID(USBCode)"KEY_PRINTSCREEN")
+Guide_RM( 73 ) = { 1, 15, KEY_HOME, 0 }; // (HID(USBCode)"KEY_HOME")
+Guide_RM( 74 ) = { 1, 15, KEY_PAGE_UP, 0 }; // (HID(USBCode)"KEY_PAGE_UP")
+Guide_RM( 75 ) = { 1, 15, KEY_DELETE, 0 }; // (HID(USBCode)"KEY_DELETE")
+Guide_RM( 76 ) = { 1, 15, KEY_END, 0 }; // (HID(USBCode)"KEY_END")
+Guide_RM( 77 ) = { 1, 15, KEY_PAGE_DOWN, 0 }; // (HID(USBCode)"KEY_PAGE_DOWN")
+Guide_RM( 78 ) = { 1, 15, KEY_RIGHT, 0 }; // (HID(USBCode)"KEY_RIGHT")
+Guide_RM( 79 ) = { 1, 15, KEY_LEFT, 0 }; // (HID(USBCode)"KEY_LEFT")
+Guide_RM( 80 ) = { 1, 15, KEY_DOWN, 0 }; // (HID(USBCode)"KEY_DOWN")
+Guide_RM( 81 ) = { 1, 15, KEY_UP, 0 }; // (HID(USBCode)"KEY_UP")
+Guide_RM( 82 ) = { 1, 15, KEY_LCTRL, 0 }; // (HID(USBCode)"KEY_LCTRL")
+Guide_RM( 83 ) = { 1, 15, KEY_LSHIFT, 0 }; // (HID(USBCode)"KEY_LSHIFT")
+Guide_RM( 84 ) = { 2, 15, KEY_LSHIFT, 15, KEY_1, 0 }; // (HID(USBCode)"KEY_LSHIFT" + HID(USBCode)"KEY_1")
+Guide_RM( 85 ) = { 1, 15, KEY_LALT, 0 }; // (HID(USBCode)"KEY_LALT")
+Guide_RM( 86 ) = { 1, 15, KEY_LGUI, 0 }; // (HID(USBCode)"KEY_LGUI")
+Guide_RM( 87 ) = { 1, 15, KEY_RSHIFT, 0 }; // (HID(USBCode)"KEY_RSHIFT")
+Guide_RM( 88 ) = { 1, 15, KEY_RALT, 0 }; // (HID(USBCode)"KEY_RALT")
+Guide_RM( 89 ) = { 1, 15, KEY_RGUI, 0 }; // (HID(USBCode)"KEY_RGUI")
+Guide_RM( 90 ) = { 1, 1, 1, 0, 0 }; // (layerLatch(1))
+Guide_RM( 91 ) = { 1, 1, 4, 0, 0 }; // (layerLatch(4))
+Guide_RM( 92 ) = { 1, 2, 2, 0, 0 }; // (layerLock(2))
+Guide_RM( 93 ) = { 1, 2, 3, 0, 0 }; // (layerLock(3))
+Guide_RM( 94 ) = { 1, 2, 5, 0, 0 }; // (layerLock(5))
+Guide_RM( 95 ) = { 1, 2, 6, 0, 0 }; // (layerLock(6))
+Guide_RM( 96 ) = { 1, 2, 7, 0, 0 }; // (layerLock(7))
+Guide_RM( 97 ) = { 1, 4, 1, 0, 0 }; // (layerShift(1))
+Guide_RM( 98 ) = { 1, 4, 2, 0, 0 }; // (layerShift(2))
+Guide_RM( 99 ) = { 1, 4, 4, 0, 0 }; // (layerShift(4))
 
 
 // -- Result Macro List
@@ -314,97 +333,98 @@ const ResultMacro ResultMacroList[] = {
 	Define_RM( 5 ), // (HID(ConsCode)"CONSUMER_VOLUME_UP")
 	Define_RM( 6 ), // (HID(ConsCode)"CONSUMER_VOLUME_DOWN")
 	Define_RM( 7 ), // (HID(ConsCode)"AC_STOP")
-	Define_RM( 8 ), // (HID(SysCode)"SYS_SLEEP")
-	Define_RM( 9 ), // (HID(USBCode)"KEY_A")
-	Define_RM( 10 ), // (HID(USBCode)"KEY_B")
-	Define_RM( 11 ), // (HID(USBCode)"KEY_C")
-	Define_RM( 12 ), // (HID(USBCode)"KEY_D")
-	Define_RM( 13 ), // (HID(USBCode)"KEY_E")
-	Define_RM( 14 ), // (HID(USBCode)"KEY_F")
-	Define_RM( 15 ), // (HID(USBCode)"KEY_G")
-	Define_RM( 16 ), // (HID(USBCode)"KEY_H")
-	Define_RM( 17 ), // (HID(USBCode)"KEY_I")
-	Define_RM( 18 ), // (HID(USBCode)"KEY_J")
-	Define_RM( 19 ), // (HID(USBCode)"KEY_K")
-	Define_RM( 20 ), // (HID(USBCode)"KEY_L")
-	Define_RM( 21 ), // (HID(USBCode)"KEY_M")
-	Define_RM( 22 ), // (HID(USBCode)"KEY_N")
-	Define_RM( 23 ), // (HID(USBCode)"KEY_O")
-	Define_RM( 24 ), // (HID(USBCode)"KEY_P")
-	Define_RM( 25 ), // (HID(USBCode)"KEY_Q")
-	Define_RM( 26 ), // (HID(USBCode)"KEY_R")
-	Define_RM( 27 ), // (HID(USBCode)"KEY_S")
-	Define_RM( 28 ), // (HID(USBCode)"KEY_T")
-	Define_RM( 29 ), // (HID(USBCode)"KEY_U")
-	Define_RM( 30 ), // (HID(USBCode)"KEY_V")
-	Define_RM( 31 ), // (HID(USBCode)"KEY_W")
-	Define_RM( 32 ), // (HID(USBCode)"KEY_X")
-	Define_RM( 33 ), // (HID(USBCode)"KEY_Y")
-	Define_RM( 34 ), // (HID(USBCode)"KEY_Z")
-	Define_RM( 35 ), // (HID(USBCode)"KEY_1")
-	Define_RM( 36 ), // (HID(USBCode)"KEY_2")
-	Define_RM( 37 ), // (HID(USBCode)"KEY_3")
-	Define_RM( 38 ), // (HID(USBCode)"KEY_4")
-	Define_RM( 39 ), // (HID(USBCode)"KEY_5")
-	Define_RM( 40 ), // (HID(USBCode)"KEY_6")
-	Define_RM( 41 ), // (HID(USBCode)"KEY_7")
-	Define_RM( 42 ), // (HID(USBCode)"KEY_8")
-	Define_RM( 43 ), // (HID(USBCode)"KEY_9")
-	Define_RM( 44 ), // (HID(USBCode)"KEY_0")
-	Define_RM( 45 ), // (HID(USBCode)"KEY_ENTER")
-	Define_RM( 46 ), // (HID(USBCode)"KEY_ESC")
-	Define_RM( 47 ), // (HID(USBCode)"KEY_BACKSPACE")
-	Define_RM( 48 ), // (HID(USBCode)"KEY_TAB")
-	Define_RM( 49 ), // (HID(USBCode)"KEY_SPACE")
-	Define_RM( 50 ), // (HID(USBCode)"KEY_MINUS")
-	Define_RM( 51 ), // (HID(USBCode)"KEY_EQUAL")
-	Define_RM( 52 ), // (HID(USBCode)"KEY_LEFT_BRACKET")
-	Define_RM( 53 ), // (HID(USBCode)"KEY_RIGHT_BRACKET")
-	Define_RM( 54 ), // (HID(USBCode)"KEY_BACKSLASH")
-	Define_RM( 55 ), // (HID(USBCode)"KEY_SEMICOLON")
-	Define_RM( 56 ), // (HID(USBCode)"KEY_QUOTE")
-	Define_RM( 57 ), // (HID(USBCode)"KEY_BACKTICK")
-	Define_RM( 58 ), // (HID(USBCode)"KEY_COMMA")
-	Define_RM( 59 ), // (HID(USBCode)"KEY_PERIOD")
-	Define_RM( 60 ), // (HID(USBCode)"KEY_SLASH")
-	Define_RM( 61 ), // (HID(USBCode)"KEY_F1")
-	Define_RM( 62 ), // (HID(USBCode)"KEY_F2")
-	Define_RM( 63 ), // (HID(USBCode)"KEY_F3")
-	Define_RM( 64 ), // (HID(USBCode)"KEY_F4")
-	Define_RM( 65 ), // (HID(USBCode)"KEY_F5")
-	Define_RM( 66 ), // (HID(USBCode)"KEY_F6")
-	Define_RM( 67 ), // (HID(USBCode)"KEY_F7")
-	Define_RM( 68 ), // (HID(USBCode)"KEY_F8")
-	Define_RM( 69 ), // (HID(USBCode)"KEY_F9")
-	Define_RM( 70 ), // (HID(USBCode)"KEY_F10")
-	Define_RM( 71 ), // (HID(USBCode)"KEY_PRINTSCREEN")
-	Define_RM( 72 ), // (HID(USBCode)"KEY_HOME")
-	Define_RM( 73 ), // (HID(USBCode)"KEY_PAGE_UP")
-	Define_RM( 74 ), // (HID(USBCode)"KEY_DELETE")
-	Define_RM( 75 ), // (HID(USBCode)"KEY_END")
-	Define_RM( 76 ), // (HID(USBCode)"KEY_PAGE_DOWN")
-	Define_RM( 77 ), // (HID(USBCode)"KEY_RIGHT")
-	Define_RM( 78 ), // (HID(USBCode)"KEY_LEFT")
-	Define_RM( 79 ), // (HID(USBCode)"KEY_DOWN")
-	Define_RM( 80 ), // (HID(USBCode)"KEY_UP")
-	Define_RM( 81 ), // (HID(USBCode)"KEY_LCTRL")
-	Define_RM( 82 ), // (HID(USBCode)"KEY_LSHIFT")
-	Define_RM( 83 ), // (HID(USBCode)"KEY_LSHIFT" + HID(USBCode)"KEY_1")
-	Define_RM( 84 ), // (HID(USBCode)"KEY_LALT")
-	Define_RM( 85 ), // (HID(USBCode)"KEY_LGUI")
-	Define_RM( 86 ), // (HID(USBCode)"KEY_RSHIFT")
-	Define_RM( 87 ), // (HID(USBCode)"KEY_RALT")
-	Define_RM( 88 ), // (HID(USBCode)"KEY_RGUI")
-	Define_RM( 89 ), // (layerLatch(1))
-	Define_RM( 90 ), // (layerLatch(4))
-	Define_RM( 91 ), // (layerLock(2))
-	Define_RM( 92 ), // (layerLock(3))
-	Define_RM( 93 ), // (layerLock(5))
-	Define_RM( 94 ), // (layerLock(6))
-	Define_RM( 95 ), // (layerLock(7))
-	Define_RM( 96 ), // (layerShift(1))
-	Define_RM( 97 ), // (layerShift(2))
-	Define_RM( 98 ), // (layerShift(4))
+	Define_RM( 8 ), // (None)
+	Define_RM( 9 ), // (HID(SysCode)"SYS_SLEEP")
+	Define_RM( 10 ), // (HID(USBCode)"KEY_A")
+	Define_RM( 11 ), // (HID(USBCode)"KEY_B")
+	Define_RM( 12 ), // (HID(USBCode)"KEY_C")
+	Define_RM( 13 ), // (HID(USBCode)"KEY_D")
+	Define_RM( 14 ), // (HID(USBCode)"KEY_E")
+	Define_RM( 15 ), // (HID(USBCode)"KEY_F")
+	Define_RM( 16 ), // (HID(USBCode)"KEY_G")
+	Define_RM( 17 ), // (HID(USBCode)"KEY_H")
+	Define_RM( 18 ), // (HID(USBCode)"KEY_I")
+	Define_RM( 19 ), // (HID(USBCode)"KEY_J")
+	Define_RM( 20 ), // (HID(USBCode)"KEY_K")
+	Define_RM( 21 ), // (HID(USBCode)"KEY_L")
+	Define_RM( 22 ), // (HID(USBCode)"KEY_M")
+	Define_RM( 23 ), // (HID(USBCode)"KEY_N")
+	Define_RM( 24 ), // (HID(USBCode)"KEY_O")
+	Define_RM( 25 ), // (HID(USBCode)"KEY_P")
+	Define_RM( 26 ), // (HID(USBCode)"KEY_Q")
+	Define_RM( 27 ), // (HID(USBCode)"KEY_R")
+	Define_RM( 28 ), // (HID(USBCode)"KEY_S")
+	Define_RM( 29 ), // (HID(USBCode)"KEY_T")
+	Define_RM( 30 ), // (HID(USBCode)"KEY_U")
+	Define_RM( 31 ), // (HID(USBCode)"KEY_V")
+	Define_RM( 32 ), // (HID(USBCode)"KEY_W")
+	Define_RM( 33 ), // (HID(USBCode)"KEY_X")
+	Define_RM( 34 ), // (HID(USBCode)"KEY_Y")
+	Define_RM( 35 ), // (HID(USBCode)"KEY_Z")
+	Define_RM( 36 ), // (HID(USBCode)"KEY_1")
+	Define_RM( 37 ), // (HID(USBCode)"KEY_2")
+	Define_RM( 38 ), // (HID(USBCode)"KEY_3")
+	Define_RM( 39 ), // (HID(USBCode)"KEY_4")
+	Define_RM( 40 ), // (HID(USBCode)"KEY_5")
+	Define_RM( 41 ), // (HID(USBCode)"KEY_6")
+	Define_RM( 42 ), // (HID(USBCode)"KEY_7")
+	Define_RM( 43 ), // (HID(USBCode)"KEY_8")
+	Define_RM( 44 ), // (HID(USBCode)"KEY_9")
+	Define_RM( 45 ), // (HID(USBCode)"KEY_0")
+	Define_RM( 46 ), // (HID(USBCode)"KEY_ENTER")
+	Define_RM( 47 ), // (HID(USBCode)"KEY_ESC")
+	Define_RM( 48 ), // (HID(USBCode)"KEY_BACKSPACE")
+	Define_RM( 49 ), // (HID(USBCode)"KEY_TAB")
+	Define_RM( 50 ), // (HID(USBCode)"KEY_SPACE")
+	Define_RM( 51 ), // (HID(USBCode)"KEY_MINUS")
+	Define_RM( 52 ), // (HID(USBCode)"KEY_EQUAL")
+	Define_RM( 53 ), // (HID(USBCode)"KEY_LEFT_BRACKET")
+	Define_RM( 54 ), // (HID(USBCode)"KEY_RIGHT_BRACKET")
+	Define_RM( 55 ), // (HID(USBCode)"KEY_BACKSLASH")
+	Define_RM( 56 ), // (HID(USBCode)"KEY_SEMICOLON")
+	Define_RM( 57 ), // (HID(USBCode)"KEY_QUOTE")
+	Define_RM( 58 ), // (HID(USBCode)"KEY_BACKTICK")
+	Define_RM( 59 ), // (HID(USBCode)"KEY_COMMA")
+	Define_RM( 60 ), // (HID(USBCode)"KEY_PERIOD")
+	Define_RM( 61 ), // (HID(USBCode)"KEY_SLASH")
+	Define_RM( 62 ), // (HID(USBCode)"KEY_F1")
+	Define_RM( 63 ), // (HID(USBCode)"KEY_F2")
+	Define_RM( 64 ), // (HID(USBCode)"KEY_F3")
+	Define_RM( 65 ), // (HID(USBCode)"KEY_F4")
+	Define_RM( 66 ), // (HID(USBCode)"KEY_F5")
+	Define_RM( 67 ), // (HID(USBCode)"KEY_F6")
+	Define_RM( 68 ), // (HID(USBCode)"KEY_F7")
+	Define_RM( 69 ), // (HID(USBCode)"KEY_F8")
+	Define_RM( 70 ), // (HID(USBCode)"KEY_F9")
+	Define_RM( 71 ), // (HID(USBCode)"KEY_F10")
+	Define_RM( 72 ), // (HID(USBCode)"KEY_PRINTSCREEN")
+	Define_RM( 73 ), // (HID(USBCode)"KEY_HOME")
+	Define_RM( 74 ), // (HID(USBCode)"KEY_PAGE_UP")
+	Define_RM( 75 ), // (HID(USBCode)"KEY_DELETE")
+	Define_RM( 76 ), // (HID(USBCode)"KEY_END")
+	Define_RM( 77 ), // (HID(USBCode)"KEY_PAGE_DOWN")
+	Define_RM( 78 ), // (HID(USBCode)"KEY_RIGHT")
+	Define_RM( 79 ), // (HID(USBCode)"KEY_LEFT")
+	Define_RM( 80 ), // (HID(USBCode)"KEY_DOWN")
+	Define_RM( 81 ), // (HID(USBCode)"KEY_UP")
+	Define_RM( 82 ), // (HID(USBCode)"KEY_LCTRL")
+	Define_RM( 83 ), // (HID(USBCode)"KEY_LSHIFT")
+	Define_RM( 84 ), // (HID(USBCode)"KEY_LSHIFT" + HID(USBCode)"KEY_1")
+	Define_RM( 85 ), // (HID(USBCode)"KEY_LALT")
+	Define_RM( 86 ), // (HID(USBCode)"KEY_LGUI")
+	Define_RM( 87 ), // (HID(USBCode)"KEY_RSHIFT")
+	Define_RM( 88 ), // (HID(USBCode)"KEY_RALT")
+	Define_RM( 89 ), // (HID(USBCode)"KEY_RGUI")
+	Define_RM( 90 ), // (layerLatch(1))
+	Define_RM( 91 ), // (layerLatch(4))
+	Define_RM( 92 ), // (layerLock(2))
+	Define_RM( 93 ), // (layerLock(3))
+	Define_RM( 94 ), // (layerLock(5))
+	Define_RM( 95 ), // (layerLock(6))
+	Define_RM( 96 ), // (layerLock(7))
+	Define_RM( 97 ), // (layerShift(1))
+	Define_RM( 98 ), // (layerShift(2))
+	Define_RM( 99 ), // (layerShift(4))
 };
 
 
@@ -485,115 +505,117 @@ Guide_TM( 67 ) = { 1, TriggerType_Switch1, ScheduleType_P, 0x47, 0 }; // (S071)
 
 // Indexed Table of Trigger Macros
 const TriggerMacro TriggerMacroList[] = {
-	/* 0 */ Define_TM( 0, 46 ), // (S001) : (HID(USBCode)"KEY_ESC");
-	/* 1 */ Define_TM( 1, 35 ), // (S002) : (HID(USBCode)"KEY_1");
-	/* 2 */ Define_TM( 1, 89 ), // (S002) : (layerLatch(1));
-	/* 3 */ Define_TM( 1, 61 ), // (S002) : (HID(USBCode)"KEY_F1");
-	/* 4 */ Define_TM( 2, 36 ), // (S003) : (HID(USBCode)"KEY_2");
-	/* 5 */ Define_TM( 2, 91 ), // (S003) : (layerLock(2));
-	/* 6 */ Define_TM( 2, 62 ), // (S003) : (HID(USBCode)"KEY_F2");
-	/* 7 */ Define_TM( 3, 92 ), // (S004) : (layerLock(3));
-	/* 8 */ Define_TM( 3, 63 ), // (S004) : (HID(USBCode)"KEY_F3");
-	/* 9 */ Define_TM( 3, 37 ), // (S004) : (HID(USBCode)"KEY_3");
-	/* 10 */ Define_TM( 4, 90 ), // (S005) : (layerLatch(4));
-	/* 11 */ Define_TM( 4, 38 ), // (S005) : (HID(USBCode)"KEY_4");
-	/* 12 */ Define_TM( 4, 64 ), // (S005) : (HID(USBCode)"KEY_F4");
-	/* 13 */ Define_TM( 5, 93 ), // (S006) : (layerLock(5));
-	/* 14 */ Define_TM( 5, 39 ), // (S006) : (HID(USBCode)"KEY_5");
-	/* 15 */ Define_TM( 5, 65 ), // (S006) : (HID(USBCode)"KEY_F5");
-	/* 16 */ Define_TM( 6, 94 ), // (S007) : (layerLock(6));
-	/* 17 */ Define_TM( 6, 40 ), // (S007) : (HID(USBCode)"KEY_6");
-	/* 18 */ Define_TM( 6, 66 ), // (S007) : (HID(USBCode)"KEY_F6");
-	/* 19 */ Define_TM( 7, 95 ), // (S008) : (layerLock(7));
-	/* 20 */ Define_TM( 7, 41 ), // (S008) : (HID(USBCode)"KEY_7");
-	/* 21 */ Define_TM( 7, 67 ), // (S008) : (HID(USBCode)"KEY_F7");
-	/* 22 */ Define_TM( 8, 68 ), // (S009) : (HID(USBCode)"KEY_F8");
-	/* 23 */ Define_TM( 8, 42 ), // (S009) : (HID(USBCode)"KEY_8");
-	/* 24 */ Define_TM( 9, 69 ), // (S010) : (HID(USBCode)"KEY_F9");
-	/* 25 */ Define_TM( 9, 43 ), // (S010) : (HID(USBCode)"KEY_9");
-	/* 26 */ Define_TM( 10, 44 ), // (S011) : (HID(USBCode)"KEY_0");
-	/* 27 */ Define_TM( 10, 70 ), // (S011) : (HID(USBCode)"KEY_F10");
-	/* 28 */ Define_TM( 10, 83 ), // (S011) : (HID(USBCode)"KEY_LSHIFT" + HID(USBCode)"KEY_1");
-	/* 29 */ Define_TM( 11, 6 ), // (S012) : (HID(ConsCode)"CONSUMER_VOLUME_DOWN");
-	/* 30 */ Define_TM( 11, 50 ), // (S012) : (HID(USBCode)"KEY_MINUS");
-	/* 31 */ Define_TM( 12, 51 ), // (S013) : (HID(USBCode)"KEY_EQUAL");
-	/* 32 */ Define_TM( 12, 5 ), // (S013) : (HID(ConsCode)"CONSUMER_VOLUME_UP");
-	/* 33 */ Define_TM( 13, 54 ), // (S014) : (HID(USBCode)"KEY_BACKSLASH");
+	/* 0 */ Define_TM( 0, 47 ), // (S001) : (HID(USBCode)"KEY_ESC");
+	/* 1 */ Define_TM( 1, 90 ), // (S002) : (layerLatch(1));
+	/* 2 */ Define_TM( 1, 62 ), // (S002) : (HID(USBCode)"KEY_F1");
+	/* 3 */ Define_TM( 1, 36 ), // (S002) : (HID(USBCode)"KEY_1");
+	/* 4 */ Define_TM( 2, 37 ), // (S003) : (HID(USBCode)"KEY_2");
+	/* 5 */ Define_TM( 2, 63 ), // (S003) : (HID(USBCode)"KEY_F2");
+	/* 6 */ Define_TM( 2, 92 ), // (S003) : (layerLock(2));
+	/* 7 */ Define_TM( 3, 64 ), // (S004) : (HID(USBCode)"KEY_F3");
+	/* 8 */ Define_TM( 3, 38 ), // (S004) : (HID(USBCode)"KEY_3");
+	/* 9 */ Define_TM( 3, 93 ), // (S004) : (layerLock(3));
+	/* 10 */ Define_TM( 4, 91 ), // (S005) : (layerLatch(4));
+	/* 11 */ Define_TM( 4, 39 ), // (S005) : (HID(USBCode)"KEY_4");
+	/* 12 */ Define_TM( 4, 65 ), // (S005) : (HID(USBCode)"KEY_F4");
+	/* 13 */ Define_TM( 5, 66 ), // (S006) : (HID(USBCode)"KEY_F5");
+	/* 14 */ Define_TM( 5, 94 ), // (S006) : (layerLock(5));
+	/* 15 */ Define_TM( 5, 40 ), // (S006) : (HID(USBCode)"KEY_5");
+	/* 16 */ Define_TM( 6, 67 ), // (S007) : (HID(USBCode)"KEY_F6");
+	/* 17 */ Define_TM( 6, 41 ), // (S007) : (HID(USBCode)"KEY_6");
+	/* 18 */ Define_TM( 6, 95 ), // (S007) : (layerLock(6));
+	/* 19 */ Define_TM( 7, 96 ), // (S008) : (layerLock(7));
+	/* 20 */ Define_TM( 7, 68 ), // (S008) : (HID(USBCode)"KEY_F7");
+	/* 21 */ Define_TM( 7, 42 ), // (S008) : (HID(USBCode)"KEY_7");
+	/* 22 */ Define_TM( 8, 69 ), // (S009) : (HID(USBCode)"KEY_F8");
+	/* 23 */ Define_TM( 8, 43 ), // (S009) : (HID(USBCode)"KEY_8");
+	/* 24 */ Define_TM( 9, 70 ), // (S010) : (HID(USBCode)"KEY_F9");
+	/* 25 */ Define_TM( 9, 44 ), // (S010) : (HID(USBCode)"KEY_9");
+	/* 26 */ Define_TM( 10, 71 ), // (S011) : (HID(USBCode)"KEY_F10");
+	/* 27 */ Define_TM( 10, 84 ), // (S011) : (HID(USBCode)"KEY_LSHIFT" + HID(USBCode)"KEY_1");
+	/* 28 */ Define_TM( 10, 45 ), // (S011) : (HID(USBCode)"KEY_0");
+	/* 29 */ Define_TM( 11, 51 ), // (S012) : (HID(USBCode)"KEY_MINUS");
+	/* 30 */ Define_TM( 11, 6 ), // (S012) : (HID(ConsCode)"CONSUMER_VOLUME_DOWN");
+	/* 31 */ Define_TM( 12, 5 ), // (S013) : (HID(ConsCode)"CONSUMER_VOLUME_UP");
+	/* 32 */ Define_TM( 12, 52 ), // (S013) : (HID(USBCode)"KEY_EQUAL");
+	/* 33 */ Define_TM( 13, 55 ), // (S014) : (HID(USBCode)"KEY_BACKSLASH");
 	/* 34 */ Define_TM( 13, 0 ), // (S014) : (HID(ConsCode)"CONSUMER_PLAY");
-	/* 35 */ Define_TM( 14, 57 ), // (S015) : (HID(USBCode)"KEY_BACKTICK");
+	/* 35 */ Define_TM( 14, 58 ), // (S015) : (HID(USBCode)"KEY_BACKTICK");
 	/* 36 */ Define_TM( 14, 1 ), // (S015) : (HID(ConsCode)"CONSUMER_PAUSE");
 	/* 37 */ Define_TM( 15, 4 ), // (S016) : (HID(ConsCode)"CONSUMER_MUTE");
-	/* 38 */ Define_TM( 16, 48 ), // (S017) : (HID(USBCode)"KEY_TAB");
-	/* 39 */ Define_TM( 17, 25 ), // (S018) : (HID(USBCode)"KEY_Q");
-	/* 40 */ Define_TM( 18, 31 ), // (S019) : (HID(USBCode)"KEY_W");
-	/* 41 */ Define_TM( 19, 13 ), // (S020) : (HID(USBCode)"KEY_E");
-	/* 42 */ Define_TM( 20, 26 ), // (S021) : (HID(USBCode)"KEY_R");
-	/* 43 */ Define_TM( 21, 28 ), // (S022) : (HID(USBCode)"KEY_T");
-	/* 44 */ Define_TM( 22, 33 ), // (S023) : (HID(USBCode)"KEY_Y");
-	/* 45 */ Define_TM( 23, 29 ), // (S024) : (HID(USBCode)"KEY_U");
-	/* 46 */ Define_TM( 24, 17 ), // (S025) : (HID(USBCode)"KEY_I");
-	/* 47 */ Define_TM( 25, 23 ), // (S026) : (HID(USBCode)"KEY_O");
-	/* 48 */ Define_TM( 26, 24 ), // (S027) : (HID(USBCode)"KEY_P");
-	/* 49 */ Define_TM( 27, 52 ), // (S028) : (HID(USBCode)"KEY_LEFT_BRACKET");
-	/* 50 */ Define_TM( 27, 3 ), // (S028) : (HID(ConsCode)"CONSUMER_SCAN_PREVIOUS_TRACK");
-	/* 51 */ Define_TM( 28, 53 ), // (S029) : (HID(USBCode)"KEY_RIGHT_BRACKET");
+	/* 38 */ Define_TM( 16, 49 ), // (S017) : (HID(USBCode)"KEY_TAB");
+	/* 39 */ Define_TM( 17, 26 ), // (S018) : (HID(USBCode)"KEY_Q");
+	/* 40 */ Define_TM( 18, 32 ), // (S019) : (HID(USBCode)"KEY_W");
+	/* 41 */ Define_TM( 19, 14 ), // (S020) : (HID(USBCode)"KEY_E");
+	/* 42 */ Define_TM( 20, 27 ), // (S021) : (HID(USBCode)"KEY_R");
+	/* 43 */ Define_TM( 21, 29 ), // (S022) : (HID(USBCode)"KEY_T");
+	/* 44 */ Define_TM( 22, 34 ), // (S023) : (HID(USBCode)"KEY_Y");
+	/* 45 */ Define_TM( 23, 30 ), // (S024) : (HID(USBCode)"KEY_U");
+	/* 46 */ Define_TM( 24, 18 ), // (S025) : (HID(USBCode)"KEY_I");
+	/* 47 */ Define_TM( 25, 24 ), // (S026) : (HID(USBCode)"KEY_O");
+	/* 48 */ Define_TM( 26, 25 ), // (S027) : (HID(USBCode)"KEY_P");
+	/* 49 */ Define_TM( 27, 3 ), // (S028) : (HID(ConsCode)"CONSUMER_SCAN_PREVIOUS_TRACK");
+	/* 50 */ Define_TM( 27, 53 ), // (S028) : (HID(USBCode)"KEY_LEFT_BRACKET");
+	/* 51 */ Define_TM( 28, 54 ), // (S029) : (HID(USBCode)"KEY_RIGHT_BRACKET");
 	/* 52 */ Define_TM( 28, 2 ), // (S029) : (HID(ConsCode)"CONSUMER_SCAN_NEXT_TRACK");
-	/* 53 */ Define_TM( 29, 47 ), // (S030) : (HID(USBCode)"KEY_BACKSPACE");
-	/* 54 */ Define_TM( 30, 7 ), // (S031) : (HID(ConsCode)"AC_STOP");
-	/* 55 */ Define_TM( 30, 74 ), // (S031) : (HID(USBCode)"KEY_DELETE");
-	/* 56 */ Define_TM( 31, 81 ), // (S032) : (HID(USBCode)"KEY_LCTRL");
-	/* 57 */ Define_TM( 32, 9 ), // (S033) : (HID(USBCode)"KEY_A");
-	/* 58 */ Define_TM( 33, 27 ), // (S034) : (HID(USBCode)"KEY_S");
-	/* 59 */ Define_TM( 34, 12 ), // (S035) : (HID(USBCode)"KEY_D");
-	/* 60 */ Define_TM( 35, 14 ), // (S036) : (HID(USBCode)"KEY_F");
-	/* 61 */ Define_TM( 36, 15 ), // (S037) : (HID(USBCode)"KEY_G");
-	/* 62 */ Define_TM( 37, 78 ), // (S038) : (HID(USBCode)"KEY_LEFT");
-	/* 63 */ Define_TM( 37, 16 ), // (S038) : (HID(USBCode)"KEY_H");
-	/* 64 */ Define_TM( 37, 72 ), // (S038) : (HID(USBCode)"KEY_HOME");
-	/* 65 */ Define_TM( 38, 79 ), // (S039) : (HID(USBCode)"KEY_DOWN");
-	/* 66 */ Define_TM( 38, 76 ), // (S039) : (HID(USBCode)"KEY_PAGE_DOWN");
-	/* 67 */ Define_TM( 38, 18 ), // (S039) : (HID(USBCode)"KEY_J");
-	/* 68 */ Define_TM( 39, 19 ), // (S040) : (HID(USBCode)"KEY_K");
-	/* 69 */ Define_TM( 39, 80 ), // (S040) : (HID(USBCode)"KEY_UP");
-	/* 70 */ Define_TM( 39, 73 ), // (S040) : (HID(USBCode)"KEY_PAGE_UP");
-	/* 71 */ Define_TM( 40, 75 ), // (S041) : (HID(USBCode)"KEY_END");
-	/* 72 */ Define_TM( 40, 20 ), // (S041) : (HID(USBCode)"KEY_L");
-	/* 73 */ Define_TM( 40, 77 ), // (S041) : (HID(USBCode)"KEY_RIGHT");
-	/* 74 */ Define_TM( 41, 55 ), // (S042) : (HID(USBCode)"KEY_SEMICOLON");
-	/* 75 */ Define_TM( 42, 56 ), // (S043) : (HID(USBCode)"KEY_QUOTE");
-	/* 76 */ Define_TM( 43, 45 ), // (S045) : (HID(USBCode)"KEY_ENTER");
-	/* 77 */ Define_TM( 44, 71 ), // (S046) : (HID(USBCode)"KEY_PRINTSCREEN");
-	/* 78 */ Define_TM( 45, 82 ), // (S047) : (HID(USBCode)"KEY_LSHIFT");
-	/* 79 */ Define_TM( 46, 34 ), // (S049) : (HID(USBCode)"KEY_Z");
-	/* 80 */ Define_TM( 47, 32 ), // (S050) : (HID(USBCode)"KEY_X");
-	/* 81 */ Define_TM( 48, 11 ), // (S051) : (HID(USBCode)"KEY_C");
-	/* 82 */ Define_TM( 49, 30 ), // (S052) : (HID(USBCode)"KEY_V");
-	/* 83 */ Define_TM( 50, 10 ), // (S053) : (HID(USBCode)"KEY_B");
-	/* 84 */ Define_TM( 51, 22 ), // (S054) : (HID(USBCode)"KEY_N");
-	/* 85 */ Define_TM( 52, 21 ), // (S055) : (HID(USBCode)"KEY_M");
-	/* 86 */ Define_TM( 53, 58 ), // (S056) : (HID(USBCode)"KEY_COMMA");
-	/* 87 */ Define_TM( 54, 59 ), // (S057) : (HID(USBCode)"KEY_PERIOD");
-	/* 88 */ Define_TM( 55, 60 ), // (S058) : (HID(USBCode)"KEY_SLASH");
-	/* 89 */ Define_TM( 56, 86 ), // (S059) : (HID(USBCode)"KEY_RSHIFT");
-	/* 90 */ Define_TM( 57, 80 ), // (S060) : (HID(USBCode)"KEY_UP");
-	/* 91 */ Define_TM( 57, 73 ), // (S060) : (HID(USBCode)"KEY_PAGE_UP");
-	/* 92 */ Define_TM( 58, 92 ), // (S061) : (layerLock(3));
-	/* 93 */ Define_TM( 58, 97 ), // (S061) : (layerShift(2));
-	/* 94 */ Define_TM( 58, 8 ), // (S061) : (HID(SysCode)"SYS_SLEEP");
-	/* 95 */ Define_TM( 59, 98 ), // (S062) : (layerShift(4));
-	/* 96 */ Define_TM( 59, 96 ), // (S062) : (layerShift(1));
-	/* 97 */ Define_TM( 60, 84 ), // (S063) : (HID(USBCode)"KEY_LALT");
-	/* 98 */ Define_TM( 61, 85 ), // (S064) : (HID(USBCode)"KEY_LGUI");
-	/* 99 */ Define_TM( 62, 49 ), // (S065) : (HID(USBCode)"KEY_SPACE");
-	/* 100 */ Define_TM( 63, 88 ), // (S066) : (HID(USBCode)"KEY_RGUI");
-	/* 101 */ Define_TM( 64, 96 ), // (S067) : (layerShift(1));
-	/* 102 */ Define_TM( 64, 87 ), // (S067) : (HID(USBCode)"KEY_RALT");
-	/* 103 */ Define_TM( 65, 78 ), // (S069) : (HID(USBCode)"KEY_LEFT");
-	/* 104 */ Define_TM( 65, 72 ), // (S069) : (HID(USBCode)"KEY_HOME");
-	/* 105 */ Define_TM( 66, 79 ), // (S070) : (HID(USBCode)"KEY_DOWN");
-	/* 106 */ Define_TM( 66, 76 ), // (S070) : (HID(USBCode)"KEY_PAGE_DOWN");
-	/* 107 */ Define_TM( 67, 77 ), // (S071) : (HID(USBCode)"KEY_RIGHT");
-	/* 108 */ Define_TM( 67, 75 ), // (S071) : (HID(USBCode)"KEY_END");
+	/* 53 */ Define_TM( 29, 48 ), // (S030) : (HID(USBCode)"KEY_BACKSPACE");
+	/* 54 */ Define_TM( 29, 8 ), // (S030) : (None);
+	/* 55 */ Define_TM( 30, 75 ), // (S031) : (HID(USBCode)"KEY_DELETE");
+	/* 56 */ Define_TM( 30, 8 ), // (S031) : (None);
+	/* 57 */ Define_TM( 30, 7 ), // (S031) : (HID(ConsCode)"AC_STOP");
+	/* 58 */ Define_TM( 31, 82 ), // (S032) : (HID(USBCode)"KEY_LCTRL");
+	/* 59 */ Define_TM( 32, 10 ), // (S033) : (HID(USBCode)"KEY_A");
+	/* 60 */ Define_TM( 33, 28 ), // (S034) : (HID(USBCode)"KEY_S");
+	/* 61 */ Define_TM( 34, 13 ), // (S035) : (HID(USBCode)"KEY_D");
+	/* 62 */ Define_TM( 35, 15 ), // (S036) : (HID(USBCode)"KEY_F");
+	/* 63 */ Define_TM( 36, 16 ), // (S037) : (HID(USBCode)"KEY_G");
+	/* 64 */ Define_TM( 37, 17 ), // (S038) : (HID(USBCode)"KEY_H");
+	/* 65 */ Define_TM( 37, 79 ), // (S038) : (HID(USBCode)"KEY_LEFT");
+	/* 66 */ Define_TM( 37, 73 ), // (S038) : (HID(USBCode)"KEY_HOME");
+	/* 67 */ Define_TM( 38, 80 ), // (S039) : (HID(USBCode)"KEY_DOWN");
+	/* 68 */ Define_TM( 38, 19 ), // (S039) : (HID(USBCode)"KEY_J");
+	/* 69 */ Define_TM( 38, 77 ), // (S039) : (HID(USBCode)"KEY_PAGE_DOWN");
+	/* 70 */ Define_TM( 39, 81 ), // (S040) : (HID(USBCode)"KEY_UP");
+	/* 71 */ Define_TM( 39, 74 ), // (S040) : (HID(USBCode)"KEY_PAGE_UP");
+	/* 72 */ Define_TM( 39, 20 ), // (S040) : (HID(USBCode)"KEY_K");
+	/* 73 */ Define_TM( 40, 21 ), // (S041) : (HID(USBCode)"KEY_L");
+	/* 74 */ Define_TM( 40, 78 ), // (S041) : (HID(USBCode)"KEY_RIGHT");
+	/* 75 */ Define_TM( 40, 76 ), // (S041) : (HID(USBCode)"KEY_END");
+	/* 76 */ Define_TM( 41, 56 ), // (S042) : (HID(USBCode)"KEY_SEMICOLON");
+	/* 77 */ Define_TM( 42, 57 ), // (S043) : (HID(USBCode)"KEY_QUOTE");
+	/* 78 */ Define_TM( 43, 46 ), // (S045) : (HID(USBCode)"KEY_ENTER");
+	/* 79 */ Define_TM( 44, 72 ), // (S046) : (HID(USBCode)"KEY_PRINTSCREEN");
+	/* 80 */ Define_TM( 45, 83 ), // (S047) : (HID(USBCode)"KEY_LSHIFT");
+	/* 81 */ Define_TM( 46, 35 ), // (S049) : (HID(USBCode)"KEY_Z");
+	/* 82 */ Define_TM( 47, 33 ), // (S050) : (HID(USBCode)"KEY_X");
+	/* 83 */ Define_TM( 48, 12 ), // (S051) : (HID(USBCode)"KEY_C");
+	/* 84 */ Define_TM( 49, 31 ), // (S052) : (HID(USBCode)"KEY_V");
+	/* 85 */ Define_TM( 50, 11 ), // (S053) : (HID(USBCode)"KEY_B");
+	/* 86 */ Define_TM( 51, 23 ), // (S054) : (HID(USBCode)"KEY_N");
+	/* 87 */ Define_TM( 52, 22 ), // (S055) : (HID(USBCode)"KEY_M");
+	/* 88 */ Define_TM( 53, 59 ), // (S056) : (HID(USBCode)"KEY_COMMA");
+	/* 89 */ Define_TM( 54, 60 ), // (S057) : (HID(USBCode)"KEY_PERIOD");
+	/* 90 */ Define_TM( 55, 61 ), // (S058) : (HID(USBCode)"KEY_SLASH");
+	/* 91 */ Define_TM( 56, 87 ), // (S059) : (HID(USBCode)"KEY_RSHIFT");
+	/* 92 */ Define_TM( 57, 81 ), // (S060) : (HID(USBCode)"KEY_UP");
+	/* 93 */ Define_TM( 57, 74 ), // (S060) : (HID(USBCode)"KEY_PAGE_UP");
+	/* 94 */ Define_TM( 58, 98 ), // (S061) : (layerShift(2));
+	/* 95 */ Define_TM( 58, 93 ), // (S061) : (layerLock(3));
+	/* 96 */ Define_TM( 58, 9 ), // (S061) : (HID(SysCode)"SYS_SLEEP");
+	/* 97 */ Define_TM( 59, 99 ), // (S062) : (layerShift(4));
+	/* 98 */ Define_TM( 59, 97 ), // (S062) : (layerShift(1));
+	/* 99 */ Define_TM( 60, 85 ), // (S063) : (HID(USBCode)"KEY_LALT");
+	/* 100 */ Define_TM( 61, 86 ), // (S064) : (HID(USBCode)"KEY_LGUI");
+	/* 101 */ Define_TM( 62, 50 ), // (S065) : (HID(USBCode)"KEY_SPACE");
+	/* 102 */ Define_TM( 63, 89 ), // (S066) : (HID(USBCode)"KEY_RGUI");
+	/* 103 */ Define_TM( 64, 88 ), // (S067) : (HID(USBCode)"KEY_RALT");
+	/* 104 */ Define_TM( 64, 97 ), // (S067) : (layerShift(1));
+	/* 105 */ Define_TM( 65, 73 ), // (S069) : (HID(USBCode)"KEY_HOME");
+	/* 106 */ Define_TM( 65, 79 ), // (S069) : (HID(USBCode)"KEY_LEFT");
+	/* 107 */ Define_TM( 66, 77 ), // (S070) : (HID(USBCode)"KEY_PAGE_DOWN");
+	/* 108 */ Define_TM( 66, 80 ), // (S070) : (HID(USBCode)"KEY_DOWN");
+	/* 109 */ Define_TM( 67, 76 ), // (S071) : (HID(USBCode)"KEY_END");
+	/* 110 */ Define_TM( 67, 78 ), // (S071) : (HID(USBCode)"KEY_RIGHT");
 };
 
 
@@ -621,18 +643,18 @@ TriggerMacroRecord TriggerMacroRecordList[ TriggerMacroNum ];
 // - Default Layer -
 Define_TL( default, 0x00 ) = { 0 };
 Define_TL( default, 0x01 ) = { 1, 0 };
-Define_TL( default, 0x02 ) = { 1, 1 };
+Define_TL( default, 0x02 ) = { 1, 3 };
 Define_TL( default, 0x03 ) = { 1, 4 };
-Define_TL( default, 0x04 ) = { 1, 9 };
+Define_TL( default, 0x04 ) = { 1, 8 };
 Define_TL( default, 0x05 ) = { 1, 11 };
-Define_TL( default, 0x06 ) = { 1, 14 };
+Define_TL( default, 0x06 ) = { 1, 15 };
 Define_TL( default, 0x07 ) = { 1, 17 };
-Define_TL( default, 0x08 ) = { 1, 20 };
+Define_TL( default, 0x08 ) = { 1, 21 };
 Define_TL( default, 0x09 ) = { 1, 23 };
 Define_TL( default, 0x0A ) = { 1, 25 };
-Define_TL( default, 0x0B ) = { 1, 26 };
-Define_TL( default, 0x0C ) = { 1, 30 };
-Define_TL( default, 0x0D ) = { 1, 31 };
+Define_TL( default, 0x0B ) = { 1, 28 };
+Define_TL( default, 0x0C ) = { 1, 29 };
+Define_TL( default, 0x0D ) = { 1, 32 };
 Define_TL( default, 0x0E ) = { 1, 33 };
 Define_TL( default, 0x0F ) = { 1, 35 };
 Define_TL( default, 0x10 ) = { 1, 37 };
@@ -647,66 +669,66 @@ Define_TL( default, 0x18 ) = { 1, 45 };
 Define_TL( default, 0x19 ) = { 1, 46 };
 Define_TL( default, 0x1A ) = { 1, 47 };
 Define_TL( default, 0x1B ) = { 1, 48 };
-Define_TL( default, 0x1C ) = { 1, 49 };
+Define_TL( default, 0x1C ) = { 1, 50 };
 Define_TL( default, 0x1D ) = { 1, 51 };
 Define_TL( default, 0x1E ) = { 1, 53 };
 Define_TL( default, 0x1F ) = { 1, 55 };
-Define_TL( default, 0x20 ) = { 1, 56 };
-Define_TL( default, 0x21 ) = { 1, 57 };
-Define_TL( default, 0x22 ) = { 1, 58 };
-Define_TL( default, 0x23 ) = { 1, 59 };
-Define_TL( default, 0x24 ) = { 1, 60 };
-Define_TL( default, 0x25 ) = { 1, 61 };
-Define_TL( default, 0x26 ) = { 1, 63 };
-Define_TL( default, 0x27 ) = { 1, 67 };
-Define_TL( default, 0x28 ) = { 1, 68 };
-Define_TL( default, 0x29 ) = { 1, 72 };
-Define_TL( default, 0x2A ) = { 1, 74 };
-Define_TL( default, 0x2B ) = { 1, 75 };
+Define_TL( default, 0x20 ) = { 1, 58 };
+Define_TL( default, 0x21 ) = { 1, 59 };
+Define_TL( default, 0x22 ) = { 1, 60 };
+Define_TL( default, 0x23 ) = { 1, 61 };
+Define_TL( default, 0x24 ) = { 1, 62 };
+Define_TL( default, 0x25 ) = { 1, 63 };
+Define_TL( default, 0x26 ) = { 1, 64 };
+Define_TL( default, 0x27 ) = { 1, 68 };
+Define_TL( default, 0x28 ) = { 1, 72 };
+Define_TL( default, 0x29 ) = { 1, 73 };
+Define_TL( default, 0x2A ) = { 1, 76 };
+Define_TL( default, 0x2B ) = { 1, 77 };
 Define_TL( default, 0x2C ) = { 0 };
-Define_TL( default, 0x2D ) = { 1, 76 };
-Define_TL( default, 0x2E ) = { 1, 77 };
-Define_TL( default, 0x2F ) = { 1, 78 };
+Define_TL( default, 0x2D ) = { 1, 78 };
+Define_TL( default, 0x2E ) = { 1, 79 };
+Define_TL( default, 0x2F ) = { 1, 80 };
 Define_TL( default, 0x30 ) = { 0 };
-Define_TL( default, 0x31 ) = { 1, 79 };
-Define_TL( default, 0x32 ) = { 1, 80 };
-Define_TL( default, 0x33 ) = { 1, 81 };
-Define_TL( default, 0x34 ) = { 1, 82 };
-Define_TL( default, 0x35 ) = { 1, 83 };
-Define_TL( default, 0x36 ) = { 1, 84 };
-Define_TL( default, 0x37 ) = { 1, 85 };
-Define_TL( default, 0x38 ) = { 1, 86 };
-Define_TL( default, 0x39 ) = { 1, 87 };
-Define_TL( default, 0x3A ) = { 1, 88 };
-Define_TL( default, 0x3B ) = { 1, 89 };
-Define_TL( default, 0x3C ) = { 1, 90 };
-Define_TL( default, 0x3D ) = { 1, 93 };
-Define_TL( default, 0x3E ) = { 1, 96 };
-Define_TL( default, 0x3F ) = { 1, 97 };
-Define_TL( default, 0x40 ) = { 1, 98 };
-Define_TL( default, 0x41 ) = { 1, 99 };
-Define_TL( default, 0x42 ) = { 1, 100 };
-Define_TL( default, 0x43 ) = { 1, 102 };
+Define_TL( default, 0x31 ) = { 1, 81 };
+Define_TL( default, 0x32 ) = { 1, 82 };
+Define_TL( default, 0x33 ) = { 1, 83 };
+Define_TL( default, 0x34 ) = { 1, 84 };
+Define_TL( default, 0x35 ) = { 1, 85 };
+Define_TL( default, 0x36 ) = { 1, 86 };
+Define_TL( default, 0x37 ) = { 1, 87 };
+Define_TL( default, 0x38 ) = { 1, 88 };
+Define_TL( default, 0x39 ) = { 1, 89 };
+Define_TL( default, 0x3A ) = { 1, 90 };
+Define_TL( default, 0x3B ) = { 1, 91 };
+Define_TL( default, 0x3C ) = { 1, 92 };
+Define_TL( default, 0x3D ) = { 1, 94 };
+Define_TL( default, 0x3E ) = { 1, 98 };
+Define_TL( default, 0x3F ) = { 1, 99 };
+Define_TL( default, 0x40 ) = { 1, 100 };
+Define_TL( default, 0x41 ) = { 1, 101 };
+Define_TL( default, 0x42 ) = { 1, 102 };
+Define_TL( default, 0x43 ) = { 1, 103 };
 Define_TL( default, 0x44 ) = { 0 };
-Define_TL( default, 0x45 ) = { 1, 103 };
-Define_TL( default, 0x46 ) = { 1, 105 };
-Define_TL( default, 0x47 ) = { 1, 107 };
+Define_TL( default, 0x45 ) = { 1, 106 };
+Define_TL( default, 0x46 ) = { 1, 108 };
+Define_TL( default, 0x47 ) = { 1, 110 };
 
 
 // - Partial Layers -
 // Partial Layer 1
-Define_TL( layer1, 0x00 ) = { 1, 3 };
-Define_TL( layer1, 0x01 ) = { 1, 6 };
-Define_TL( layer1, 0x02 ) = { 1, 8 };
+Define_TL( layer1, 0x00 ) = { 1, 2 };
+Define_TL( layer1, 0x01 ) = { 1, 5 };
+Define_TL( layer1, 0x02 ) = { 1, 7 };
 Define_TL( layer1, 0x03 ) = { 1, 12 };
-Define_TL( layer1, 0x04 ) = { 1, 15 };
-Define_TL( layer1, 0x05 ) = { 1, 18 };
-Define_TL( layer1, 0x06 ) = { 1, 21 };
+Define_TL( layer1, 0x04 ) = { 1, 13 };
+Define_TL( layer1, 0x05 ) = { 1, 16 };
+Define_TL( layer1, 0x06 ) = { 1, 20 };
 Define_TL( layer1, 0x07 ) = { 1, 22 };
 Define_TL( layer1, 0x08 ) = { 1, 24 };
-Define_TL( layer1, 0x09 ) = { 1, 27 };
-Define_TL( layer1, 0x0A ) = { 1, 29 };
-Define_TL( layer1, 0x0B ) = { 1, 32 };
+Define_TL( layer1, 0x09 ) = { 1, 26 };
+Define_TL( layer1, 0x0A ) = { 1, 30 };
+Define_TL( layer1, 0x0B ) = { 1, 31 };
 Define_TL( layer1, 0x0C ) = { 1, 34 };
 Define_TL( layer1, 0x0D ) = { 1, 36 };
 Define_TL( layer1, 0x0E ) = { 0 };
@@ -721,10 +743,10 @@ Define_TL( layer1, 0x16 ) = { 0 };
 Define_TL( layer1, 0x17 ) = { 0 };
 Define_TL( layer1, 0x18 ) = { 0 };
 Define_TL( layer1, 0x19 ) = { 0 };
-Define_TL( layer1, 0x1A ) = { 1, 50 };
+Define_TL( layer1, 0x1A ) = { 1, 49 };
 Define_TL( layer1, 0x1B ) = { 1, 52 };
 Define_TL( layer1, 0x1C ) = { 0 };
-Define_TL( layer1, 0x1D ) = { 1, 54 };
+Define_TL( layer1, 0x1D ) = { 1, 57 };
 Define_TL( layer1, 0x1E ) = { 0 };
 Define_TL( layer1, 0x1F ) = { 0 };
 Define_TL( layer1, 0x20 ) = { 0 };
@@ -753,26 +775,26 @@ Define_TL( layer1, 0x36 ) = { 0 };
 Define_TL( layer1, 0x37 ) = { 0 };
 Define_TL( layer1, 0x38 ) = { 0 };
 Define_TL( layer1, 0x39 ) = { 0 };
-Define_TL( layer1, 0x3A ) = { 1, 91 };
-Define_TL( layer1, 0x3B ) = { 1, 94 };
+Define_TL( layer1, 0x3A ) = { 1, 93 };
+Define_TL( layer1, 0x3B ) = { 1, 96 };
 Define_TL( layer1, 0x3C ) = { 0 };
 Define_TL( layer1, 0x3D ) = { 0 };
 Define_TL( layer1, 0x3E ) = { 0 };
 Define_TL( layer1, 0x3F ) = { 0 };
 Define_TL( layer1, 0x40 ) = { 0 };
-Define_TL( layer1, 0x41 ) = { 1, 101 };
+Define_TL( layer1, 0x41 ) = { 1, 104 };
 Define_TL( layer1, 0x42 ) = { 0 };
-Define_TL( layer1, 0x43 ) = { 1, 104 };
-Define_TL( layer1, 0x44 ) = { 1, 106 };
-Define_TL( layer1, 0x45 ) = { 1, 108 };
+Define_TL( layer1, 0x43 ) = { 1, 105 };
+Define_TL( layer1, 0x44 ) = { 1, 107 };
+Define_TL( layer1, 0x45 ) = { 1, 109 };
 
 // Partial Layer 2
-Define_TL( layer2, 0x00 ) = { 1, 2 };
-Define_TL( layer2, 0x01 ) = { 1, 5 };
-Define_TL( layer2, 0x02 ) = { 1, 7 };
+Define_TL( layer2, 0x00 ) = { 1, 1 };
+Define_TL( layer2, 0x01 ) = { 1, 6 };
+Define_TL( layer2, 0x02 ) = { 1, 9 };
 Define_TL( layer2, 0x03 ) = { 1, 10 };
-Define_TL( layer2, 0x04 ) = { 1, 13 };
-Define_TL( layer2, 0x05 ) = { 1, 16 };
+Define_TL( layer2, 0x04 ) = { 1, 14 };
+Define_TL( layer2, 0x05 ) = { 1, 18 };
 Define_TL( layer2, 0x06 ) = { 1, 19 };
 Define_TL( layer2, 0x07 ) = { 0 };
 Define_TL( layer2, 0x08 ) = { 0 };
@@ -832,21 +854,21 @@ Define_TL( layer2, 0x3D ) = { 0 };
 Define_TL( layer2, 0x3E ) = { 0 };
 Define_TL( layer2, 0x3F ) = { 0 };
 Define_TL( layer2, 0x40 ) = { 0 };
-Define_TL( layer2, 0x41 ) = { 1, 101 };
+Define_TL( layer2, 0x41 ) = { 1, 104 };
 
 // Partial Layer 3
-Define_TL( layer3, 0x00 ) = { 1, 1 };
+Define_TL( layer3, 0x00 ) = { 1, 3 };
 Define_TL( layer3, 0x01 ) = { 1, 4 };
-Define_TL( layer3, 0x02 ) = { 1, 9 };
+Define_TL( layer3, 0x02 ) = { 1, 8 };
 Define_TL( layer3, 0x03 ) = { 1, 11 };
-Define_TL( layer3, 0x04 ) = { 1, 14 };
+Define_TL( layer3, 0x04 ) = { 1, 15 };
 Define_TL( layer3, 0x05 ) = { 1, 17 };
-Define_TL( layer3, 0x06 ) = { 1, 20 };
+Define_TL( layer3, 0x06 ) = { 1, 21 };
 Define_TL( layer3, 0x07 ) = { 1, 23 };
 Define_TL( layer3, 0x08 ) = { 1, 25 };
-Define_TL( layer3, 0x09 ) = { 1, 28 };
-Define_TL( layer3, 0x0A ) = { 1, 29 };
-Define_TL( layer3, 0x0B ) = { 1, 32 };
+Define_TL( layer3, 0x09 ) = { 1, 27 };
+Define_TL( layer3, 0x0A ) = { 1, 30 };
+Define_TL( layer3, 0x0B ) = { 1, 31 };
 Define_TL( layer3, 0x0C ) = { 1, 34 };
 Define_TL( layer3, 0x0D ) = { 1, 36 };
 Define_TL( layer3, 0x0E ) = { 0 };
@@ -861,20 +883,20 @@ Define_TL( layer3, 0x16 ) = { 0 };
 Define_TL( layer3, 0x17 ) = { 0 };
 Define_TL( layer3, 0x18 ) = { 0 };
 Define_TL( layer3, 0x19 ) = { 0 };
-Define_TL( layer3, 0x1A ) = { 1, 50 };
+Define_TL( layer3, 0x1A ) = { 1, 49 };
 Define_TL( layer3, 0x1B ) = { 1, 52 };
 Define_TL( layer3, 0x1C ) = { 0 };
-Define_TL( layer3, 0x1D ) = { 1, 54 };
+Define_TL( layer3, 0x1D ) = { 1, 57 };
 Define_TL( layer3, 0x1E ) = { 0 };
 Define_TL( layer3, 0x1F ) = { 0 };
 Define_TL( layer3, 0x20 ) = { 0 };
 Define_TL( layer3, 0x21 ) = { 0 };
 Define_TL( layer3, 0x22 ) = { 0 };
 Define_TL( layer3, 0x23 ) = { 0 };
-Define_TL( layer3, 0x24 ) = { 1, 62 };
-Define_TL( layer3, 0x25 ) = { 1, 65 };
-Define_TL( layer3, 0x26 ) = { 1, 69 };
-Define_TL( layer3, 0x27 ) = { 1, 73 };
+Define_TL( layer3, 0x24 ) = { 1, 65 };
+Define_TL( layer3, 0x25 ) = { 1, 67 };
+Define_TL( layer3, 0x26 ) = { 1, 70 };
+Define_TL( layer3, 0x27 ) = { 1, 74 };
 Define_TL( layer3, 0x28 ) = { 0 };
 Define_TL( layer3, 0x29 ) = { 0 };
 Define_TL( layer3, 0x2A ) = { 0 };
@@ -894,25 +916,25 @@ Define_TL( layer3, 0x37 ) = { 0 };
 Define_TL( layer3, 0x38 ) = { 0 };
 Define_TL( layer3, 0x39 ) = { 0 };
 Define_TL( layer3, 0x3A ) = { 0 };
-Define_TL( layer3, 0x3B ) = { 1, 92 };
-Define_TL( layer3, 0x3C ) = { 1, 95 };
+Define_TL( layer3, 0x3B ) = { 1, 95 };
+Define_TL( layer3, 0x3C ) = { 1, 97 };
 Define_TL( layer3, 0x3D ) = { 0 };
 Define_TL( layer3, 0x3E ) = { 0 };
 Define_TL( layer3, 0x3F ) = { 0 };
 Define_TL( layer3, 0x40 ) = { 0 };
-Define_TL( layer3, 0x41 ) = { 1, 101 };
+Define_TL( layer3, 0x41 ) = { 1, 104 };
 
 // Partial Layer 4
-Define_TL( layer4, 0x00 ) = { 1, 3 };
-Define_TL( layer4, 0x01 ) = { 1, 6 };
-Define_TL( layer4, 0x02 ) = { 1, 8 };
+Define_TL( layer4, 0x00 ) = { 1, 2 };
+Define_TL( layer4, 0x01 ) = { 1, 5 };
+Define_TL( layer4, 0x02 ) = { 1, 7 };
 Define_TL( layer4, 0x03 ) = { 1, 12 };
-Define_TL( layer4, 0x04 ) = { 1, 15 };
-Define_TL( layer4, 0x05 ) = { 1, 18 };
-Define_TL( layer4, 0x06 ) = { 1, 21 };
+Define_TL( layer4, 0x04 ) = { 1, 13 };
+Define_TL( layer4, 0x05 ) = { 1, 16 };
+Define_TL( layer4, 0x06 ) = { 1, 20 };
 Define_TL( layer4, 0x07 ) = { 1, 22 };
 Define_TL( layer4, 0x08 ) = { 1, 24 };
-Define_TL( layer4, 0x09 ) = { 1, 27 };
+Define_TL( layer4, 0x09 ) = { 1, 26 };
 Define_TL( layer4, 0x0A ) = { 0 };
 Define_TL( layer4, 0x0B ) = { 0 };
 Define_TL( layer4, 0x0C ) = { 0 };
@@ -939,10 +961,10 @@ Define_TL( layer4, 0x20 ) = { 0 };
 Define_TL( layer4, 0x21 ) = { 0 };
 Define_TL( layer4, 0x22 ) = { 0 };
 Define_TL( layer4, 0x23 ) = { 0 };
-Define_TL( layer4, 0x24 ) = { 1, 64 };
-Define_TL( layer4, 0x25 ) = { 1, 66 };
-Define_TL( layer4, 0x26 ) = { 1, 70 };
-Define_TL( layer4, 0x27 ) = { 1, 71 };
+Define_TL( layer4, 0x24 ) = { 1, 66 };
+Define_TL( layer4, 0x25 ) = { 1, 69 };
+Define_TL( layer4, 0x26 ) = { 1, 71 };
+Define_TL( layer4, 0x27 ) = { 1, 75 };
 Define_TL( layer4, 0x28 ) = { 0 };
 Define_TL( layer4, 0x29 ) = { 0 };
 Define_TL( layer4, 0x2A ) = { 0 };
@@ -961,18 +983,64 @@ Define_TL( layer4, 0x36 ) = { 0 };
 Define_TL( layer4, 0x37 ) = { 0 };
 Define_TL( layer4, 0x38 ) = { 0 };
 Define_TL( layer4, 0x39 ) = { 0 };
-Define_TL( layer4, 0x3A ) = { 1, 91 };
-Define_TL( layer4, 0x3B ) = { 1, 94 };
+Define_TL( layer4, 0x3A ) = { 1, 93 };
+Define_TL( layer4, 0x3B ) = { 1, 96 };
 Define_TL( layer4, 0x3C ) = { 0 };
 Define_TL( layer4, 0x3D ) = { 0 };
 Define_TL( layer4, 0x3E ) = { 0 };
 Define_TL( layer4, 0x3F ) = { 0 };
 Define_TL( layer4, 0x40 ) = { 0 };
-Define_TL( layer4, 0x41 ) = { 1, 101 };
+Define_TL( layer4, 0x41 ) = { 1, 104 };
 Define_TL( layer4, 0x42 ) = { 0 };
-Define_TL( layer4, 0x43 ) = { 1, 104 };
-Define_TL( layer4, 0x44 ) = { 1, 106 };
-Define_TL( layer4, 0x45 ) = { 1, 108 };
+Define_TL( layer4, 0x43 ) = { 1, 105 };
+Define_TL( layer4, 0x44 ) = { 1, 107 };
+Define_TL( layer4, 0x45 ) = { 1, 109 };
+
+// Partial Layer 5
+Define_TL( layer5, 0x00 ) = { 1, 104 };
+
+// Partial Layer 6
+Define_TL( layer6, 0x00 ) = { 1, 104 };
+
+// Partial Layer 7
+Define_TL( layer7, 0x00 ) = { 1, 54 };
+Define_TL( layer7, 0x01 ) = { 1, 56 };
+Define_TL( layer7, 0x02 ) = { 0 };
+Define_TL( layer7, 0x03 ) = { 0 };
+Define_TL( layer7, 0x04 ) = { 0 };
+Define_TL( layer7, 0x05 ) = { 0 };
+Define_TL( layer7, 0x06 ) = { 0 };
+Define_TL( layer7, 0x07 ) = { 0 };
+Define_TL( layer7, 0x08 ) = { 0 };
+Define_TL( layer7, 0x09 ) = { 0 };
+Define_TL( layer7, 0x0A ) = { 0 };
+Define_TL( layer7, 0x0B ) = { 0 };
+Define_TL( layer7, 0x0C ) = { 0 };
+Define_TL( layer7, 0x0D ) = { 0 };
+Define_TL( layer7, 0x0E ) = { 0 };
+Define_TL( layer7, 0x0F ) = { 0 };
+Define_TL( layer7, 0x10 ) = { 0 };
+Define_TL( layer7, 0x11 ) = { 0 };
+Define_TL( layer7, 0x12 ) = { 0 };
+Define_TL( layer7, 0x13 ) = { 0 };
+Define_TL( layer7, 0x14 ) = { 0 };
+Define_TL( layer7, 0x15 ) = { 0 };
+Define_TL( layer7, 0x16 ) = { 0 };
+Define_TL( layer7, 0x17 ) = { 0 };
+Define_TL( layer7, 0x18 ) = { 0 };
+Define_TL( layer7, 0x19 ) = { 0 };
+Define_TL( layer7, 0x1A ) = { 0 };
+Define_TL( layer7, 0x1B ) = { 0 };
+Define_TL( layer7, 0x1C ) = { 0 };
+Define_TL( layer7, 0x1D ) = { 0 };
+Define_TL( layer7, 0x1E ) = { 0 };
+Define_TL( layer7, 0x1F ) = { 0 };
+Define_TL( layer7, 0x20 ) = { 0 };
+Define_TL( layer7, 0x21 ) = { 0 };
+Define_TL( layer7, 0x22 ) = { 0 };
+Define_TL( layer7, 0x23 ) = { 0 };
+Define_TL( layer7, 0x24 ) = { 0 };
+Define_TL( layer7, 0x25 ) = { 1, 104 };
 
 
 // -- ScanCode Offset Map
@@ -1025,6 +1093,21 @@ const nat_ptr_t *layer4_scanMap[] = {
 layer4_tl_0x00, layer4_tl_0x01, layer4_tl_0x02, layer4_tl_0x03, layer4_tl_0x04, layer4_tl_0x05, layer4_tl_0x06, layer4_tl_0x07, layer4_tl_0x08, layer4_tl_0x09, layer4_tl_0x0A, layer4_tl_0x0B, layer4_tl_0x0C, layer4_tl_0x0D, layer4_tl_0x0E, layer4_tl_0x0F, layer4_tl_0x10, layer4_tl_0x11, layer4_tl_0x12, layer4_tl_0x13, layer4_tl_0x14, layer4_tl_0x15, layer4_tl_0x16, layer4_tl_0x17, layer4_tl_0x18, layer4_tl_0x19, layer4_tl_0x1A, layer4_tl_0x1B, layer4_tl_0x1C, layer4_tl_0x1D, layer4_tl_0x1E, layer4_tl_0x1F, layer4_tl_0x20, layer4_tl_0x21, layer4_tl_0x22, layer4_tl_0x23, layer4_tl_0x24, layer4_tl_0x25, layer4_tl_0x26, layer4_tl_0x27, layer4_tl_0x28, layer4_tl_0x29, layer4_tl_0x2A, layer4_tl_0x2B, layer4_tl_0x2C, layer4_tl_0x2D, layer4_tl_0x2E, layer4_tl_0x2F, layer4_tl_0x30, layer4_tl_0x31, layer4_tl_0x32, layer4_tl_0x33, layer4_tl_0x34, layer4_tl_0x35, layer4_tl_0x36, layer4_tl_0x37, layer4_tl_0x38, layer4_tl_0x39, layer4_tl_0x3A, layer4_tl_0x3B, layer4_tl_0x3C, layer4_tl_0x3D, layer4_tl_0x3E, layer4_tl_0x3F, layer4_tl_0x40, layer4_tl_0x41, layer4_tl_0x42, layer4_tl_0x43, layer4_tl_0x44, layer4_tl_0x45
 };
 
+// Partial Layer 5
+const nat_ptr_t *layer5_scanMap[] = { 
+layer5_tl_0x00
+};
+
+// Partial Layer 6
+const nat_ptr_t *layer6_scanMap[] = { 
+layer6_tl_0x00
+};
+
+// Partial Layer 7
+const nat_ptr_t *layer7_scanMap[] = { 
+layer7_tl_0x00, layer7_tl_0x01, layer7_tl_0x02, layer7_tl_0x03, layer7_tl_0x04, layer7_tl_0x05, layer7_tl_0x06, layer7_tl_0x07, layer7_tl_0x08, layer7_tl_0x09, layer7_tl_0x0A, layer7_tl_0x0B, layer7_tl_0x0C, layer7_tl_0x0D, layer7_tl_0x0E, layer7_tl_0x0F, layer7_tl_0x10, layer7_tl_0x11, layer7_tl_0x12, layer7_tl_0x13, layer7_tl_0x14, layer7_tl_0x15, layer7_tl_0x16, layer7_tl_0x17, layer7_tl_0x18, layer7_tl_0x19, layer7_tl_0x1A, layer7_tl_0x1B, layer7_tl_0x1C, layer7_tl_0x1D, layer7_tl_0x1E, layer7_tl_0x1F, layer7_tl_0x20, layer7_tl_0x21, layer7_tl_0x22, layer7_tl_0x23, layer7_tl_0x24, layer7_tl_0x25
+};
+
 
 
 // ----- Layer Index -----
@@ -1039,6 +1122,9 @@ const Layer LayerIndex[] = {
 	Layer_IN( layer2_scanMap, "2: _srv_KiiConf_controller_Scan_Devices_ISSILed@['capabilities']_processed.kll + _srv_KiiConf_controller_Scan_Devices_MatrixARMPeriodic@['capabilities']_processed.kll + _srv_KiiConf_controller_Macro_PartialMap@['capabilities']_processed.kll + _srv_KiiConf_controller_Macro_PixelMap@['capabilities']_processed.kll + _srv_KiiConf_controller_Output_HID-IO@['capabilities']_processed.kll + _srv_KiiConf_controller_Output_USB@['capabilities']_processed.kll + _srv_KiiConf_controller_Debug_latency@['capabilities']_processed.kll + _srv_KiiConf_controller_Scan_WhiteFox@['scancode_map']_processed.kll + _srv_KiiConf_controller_Scan_WhiteFox@['scancode_map', 'truefox']_processed.kll + _srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll + @['WhiteFox-TrueFoxBlank-2']_processed.kll", 0x02 ),
 	Layer_IN( layer3_scanMap, "3: _srv_KiiConf_controller_Scan_Devices_ISSILed@['capabilities']_processed.kll + _srv_KiiConf_controller_Scan_Devices_MatrixARMPeriodic@['capabilities']_processed.kll + _srv_KiiConf_controller_Macro_PartialMap@['capabilities']_processed.kll + _srv_KiiConf_controller_Macro_PixelMap@['capabilities']_processed.kll + _srv_KiiConf_controller_Output_HID-IO@['capabilities']_processed.kll + _srv_KiiConf_controller_Output_USB@['capabilities']_processed.kll + _srv_KiiConf_controller_Debug_latency@['capabilities']_processed.kll + _srv_KiiConf_controller_Scan_WhiteFox@['scancode_map']_processed.kll + _srv_KiiConf_controller_Scan_WhiteFox@['scancode_map', 'truefox']_processed.kll + _srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll + @['WhiteFox-TrueFoxBlank-3']_processed.kll", 0x02 ),
 	Layer_IN( layer4_scanMap, "4: _srv_KiiConf_controller_Scan_Devices_ISSILed@['capabilities']_processed.kll + _srv_KiiConf_controller_Scan_Devices_MatrixARMPeriodic@['capabilities']_processed.kll + _srv_KiiConf_controller_Macro_PartialMap@['capabilities']_processed.kll + _srv_KiiConf_controller_Macro_PixelMap@['capabilities']_processed.kll + _srv_KiiConf_controller_Output_HID-IO@['capabilities']_processed.kll + _srv_KiiConf_controller_Output_USB@['capabilities']_processed.kll + _srv_KiiConf_controller_Debug_latency@['capabilities']_processed.kll + _srv_KiiConf_controller_Scan_WhiteFox@['scancode_map']_processed.kll + _srv_KiiConf_controller_Scan_WhiteFox@['scancode_map', 'truefox']_processed.kll + _srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll + @['WhiteFox-TrueFoxBlank-4']_processed.kll", 0x02 ),
+	Layer_IN( layer5_scanMap, "5: _srv_KiiConf_controller_Scan_Devices_ISSILed@['capabilities']_processed.kll + _srv_KiiConf_controller_Scan_Devices_MatrixARMPeriodic@['capabilities']_processed.kll + _srv_KiiConf_controller_Macro_PartialMap@['capabilities']_processed.kll + _srv_KiiConf_controller_Macro_PixelMap@['capabilities']_processed.kll + _srv_KiiConf_controller_Output_HID-IO@['capabilities']_processed.kll + _srv_KiiConf_controller_Output_USB@['capabilities']_processed.kll + _srv_KiiConf_controller_Debug_latency@['capabilities']_processed.kll + _srv_KiiConf_controller_Scan_WhiteFox@['scancode_map']_processed.kll + _srv_KiiConf_controller_Scan_WhiteFox@['scancode_map', 'truefox']_processed.kll + _srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll", 0x43 ),
+	Layer_IN( layer6_scanMap, "6: _srv_KiiConf_controller_Scan_Devices_ISSILed@['capabilities']_processed.kll + _srv_KiiConf_controller_Scan_Devices_MatrixARMPeriodic@['capabilities']_processed.kll + _srv_KiiConf_controller_Macro_PartialMap@['capabilities']_processed.kll + _srv_KiiConf_controller_Macro_PixelMap@['capabilities']_processed.kll + _srv_KiiConf_controller_Output_HID-IO@['capabilities']_processed.kll + _srv_KiiConf_controller_Output_USB@['capabilities']_processed.kll + _srv_KiiConf_controller_Debug_latency@['capabilities']_processed.kll + _srv_KiiConf_controller_Scan_WhiteFox@['scancode_map']_processed.kll + _srv_KiiConf_controller_Scan_WhiteFox@['scancode_map', 'truefox']_processed.kll + _srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll", 0x43 ),
+	Layer_IN( layer7_scanMap, "7: _srv_KiiConf_controller_Scan_Devices_ISSILed@['capabilities']_processed.kll + _srv_KiiConf_controller_Scan_Devices_MatrixARMPeriodic@['capabilities']_processed.kll + _srv_KiiConf_controller_Macro_PartialMap@['capabilities']_processed.kll + _srv_KiiConf_controller_Macro_PixelMap@['capabilities']_processed.kll + _srv_KiiConf_controller_Output_HID-IO@['capabilities']_processed.kll + _srv_KiiConf_controller_Output_USB@['capabilities']_processed.kll + _srv_KiiConf_controller_Debug_latency@['capabilities']_processed.kll + _srv_KiiConf_controller_Scan_WhiteFox@['scancode_map']_processed.kll + _srv_KiiConf_controller_Scan_WhiteFox@['scancode_map', 'truefox']_processed.kll + _srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll + @['WhiteFox-TrueFoxBlank-7']_processed.kll", 0x1E ),
 };
 
 

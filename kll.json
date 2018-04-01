@@ -3313,6 +3313,123 @@
                     ]
                 ]
             }
+        },
+        "5": {
+            ":0 S067": {
+                "kll": "S0x043 : layerShift(1);",
+                "result": [
+                    [
+                        {
+                            "args": [
+                                {
+                                    "type": "CapArgValue",
+                                    "value": 1
+                                }
+                            ],
+                            "name": "layerShift",
+                            "type": "Capability"
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 67
+                        }
+                    ]
+                ]
+            }
+        },
+        "6": {
+            ":0 S067": {
+                "kll": "S0x043 : layerShift(1);",
+                "result": [
+                    [
+                        {
+                            "args": [
+                                {
+                                    "type": "CapArgValue",
+                                    "value": 1
+                                }
+                            ],
+                            "name": "layerShift",
+                            "type": "Capability"
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 67
+                        }
+                    ]
+                ]
+            }
+        },
+        "7": {
+            ":0 S030": {
+                "kll": "S0x01e : None;",
+                "result": [
+                    [
+                        {
+                            "type": "None"
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 30
+                        }
+                    ]
+                ]
+            },
+            ":0 S031": {
+                "kll": "S0x01f : None;",
+                "result": [
+                    [
+                        {
+                            "type": "None"
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 31
+                        }
+                    ]
+                ]
+            },
+            ":0 S067": {
+                "kll": "S0x043 : layerShift(1);",
+                "result": [
+                    [
+                        {
+                            "args": [
+                                {
+                                    "type": "CapArgValue",
+                                    "value": 1
+                                }
+                            ],
+                            "name": "layerShift",
+                            "type": "Capability"
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 67
+                        }
+                    ]
+                ]
+            }
         }
     },
     "PixelIds": {
