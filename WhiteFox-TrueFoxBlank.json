@@ -24,6 +24,14 @@
                 "0": {
                     "key": "ESC",
                     "label": "ESC"
+                },
+                "1": {
+                    "key": "#:None",
+                    "label": "NONE"
+                },
+                "2": {
+                    "key": "#:None",
+                    "label": "NONE"
                 }
             }
         },
@@ -969,6 +977,10 @@
             "h": 4,
             "layers": {
                 "0": {
+                    "key": "FUN1",
+                    "label": "\u01921"
+                },
+                "3": {
                     "key": "FUN1",
                     "label": "\u01921"
                 }

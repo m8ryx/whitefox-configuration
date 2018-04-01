@@ -1800,6 +1800,24 @@
             }
         },
         "1": {
+            ":0 S001": {
+                "kll": "S0x001 : None;",
+                "result": [
+                    [
+                        {
+                            "type": "None"
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 1
+                        }
+                    ]
+                ]
+            },
             ":0 S002": {
                 "kll": "S0x002 : U0x03a;",
                 "result": [
@@ -2245,6 +2263,24 @@
             }
         },
         "2": {
+            ":0 S001": {
+                "kll": "S0x001 : None;",
+                "result": [
+                    [
+                        {
+                            "type": "None"
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 1
+                        }
+                    ]
+                ]
+            },
             ":0 S002": {
                 "kll": "S0x002 : layerLock(1);",
                 "result": [
@@ -2723,6 +2759,31 @@
                         {
                             "type": "ScanCode",
                             "uid": 47
+                        }
+                    ]
+                ]
+            },
+            ":0 S062": {
+                "kll": "S0x03e : layerShift(1);",
+                "result": [
+                    [
+                        {
+                            "args": [
+                                {
+                                    "type": "CapArgValue",
+                                    "value": 1
+                                }
+                            ],
+                            "name": "layerShift",
+                            "type": "Capability"
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 62
                         }
                     ]
                 ]

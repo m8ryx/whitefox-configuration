@@ -8,6 +8,7 @@ KLL = "0.3c";
 Date = "2016-05-30";
 Generator = "KIICONF 0.2";
 
+U"ESC" : None;
 U"1" : U"LCK1";
 U"2" : U"LCK2";
 U"3" : U"LCK3";
