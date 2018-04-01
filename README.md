@@ -49,6 +49,9 @@ Browsing modifier layer
 - Also explicitly reset the media and sleep keys in 3 and 4 in a hopefully sensible manner.
 - similar to L1 functionality
 
+### Layer 7:
+Chuck Norris mode (backspace/del disabled)
+
 ### Notes
 Discovered that f1 does not send to main...so couldn't get back to typing. Now f1-ESC and f2-ESC both do None layers.
 
