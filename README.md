@@ -10,6 +10,7 @@ Not included in the images, this version enables vi-style keys for 'browser mode
 
 ## Layer Notes
 ### Layer 1:
+Function Layer
 - Function keys and a few other action keys:
 - 1-0 = F1-F10
 - Esc = Lock-1 (subject to change)
@@ -27,10 +28,11 @@ Not included in the images, this version enables vi-style keys for 'browser mode
 - Star = Sleep
 
 ### Layer 2:
-- Locking Layer
+Locking Layer
 - 1-7 = Lock-1 - Lock-7
 
 ### Layer 3:
+Browsing Layer
 - j = down arrow
 - k = up arrow
 - h = left arrow
@@ -39,11 +41,11 @@ Not included in the images, this version enables vi-style keys for 'browser mode
 - the left shift key is the modifier to enable layer 4:
 
 ### Layer 4:
+Browsing modifier layer
 - j = page down
 - k = page up
 - h = home
 - l = end
-
 - Also explicitly reset the media and sleep keys in 3 and 4 in a hopefully sensible manner.
 
 ### Notes
