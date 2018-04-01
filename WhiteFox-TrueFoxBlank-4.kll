@@ -22,7 +22,11 @@ U"H" : U"HOME";
 U"J" : U"PAGEDOWN";
 U"K" : U"PAGEUP";
 U"L" : U"END";
+U"UP" : U"PAGEUP";
 U"PAGEDOWN" : SYS"SLEEP";
+U"LEFT" : U"HOME";
+U"DOWN" : U"PAGEDOWN";
+U"RIGHT" : U"END";
 
 
 

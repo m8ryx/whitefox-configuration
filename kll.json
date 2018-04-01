@@ -2850,31 +2850,6 @@
                     ]
                 ]
             },
-            ":0 S047": {
-                "kll": "S0x02f : layerShift(4);",
-                "result": [
-                    [
-                        {
-                            "args": [
-                                {
-                                    "type": "CapArgValue",
-                                    "value": 4
-                                }
-                            ],
-                            "name": "layerShift",
-                            "type": "Capability"
-                        }
-                    ]
-                ],
-                "trigger": [
-                    [
-                        {
-                            "type": "ScanCode",
-                            "uid": 47
-                        }
-                    ]
-                ]
-            },
             ":0 S061": {
                 "kll": "S0x03d : layerLock(3);",
                 "result": [
@@ -2901,14 +2876,14 @@
                 ]
             },
             ":0 S062": {
-                "kll": "S0x03e : layerShift(1);",
+                "kll": "S0x03e : layerShift(4);",
                 "result": [
                     [
                         {
                             "args": [
                                 {
                                     "type": "CapArgValue",
-                                    "value": 1
+                                    "value": 4
                                 }
                             ],
                             "name": "layerShift",
@@ -3218,6 +3193,25 @@
                     ]
                 ]
             },
+            ":0 S060": {
+                "kll": "S0x03c : U0x04b;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 75
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 60
+                        }
+                    ]
+                ]
+            },
             ":0 S061": {
                 "kll": "S0x03d : SYS0x082;",
                 "result": [
@@ -3258,6 +3252,63 @@
                         {
                             "type": "ScanCode",
                             "uid": 67
+                        }
+                    ]
+                ]
+            },
+            ":0 S069": {
+                "kll": "S0x045 : U0x04a;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 74
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 69
+                        }
+                    ]
+                ]
+            },
+            ":0 S070": {
+                "kll": "S0x046 : U0x04e;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 78
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 70
+                        }
+                    ]
+                ]
+            },
+            ":0 S071": {
+                "kll": "S0x047 : U0x04d;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 77
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 71
                         }
                     ]
                 ]

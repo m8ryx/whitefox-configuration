@@ -845,10 +845,6 @@
                 "0": {
                     "key": "LSHIFT",
                     "label": "L\u21d1"
-                },
-                "3": {
-                    "key": "FUN4",
-                    "label": "\u01924"
                 }
             }
         },
@@ -1009,6 +1005,10 @@
                 "1": {
                     "key": "PAGEUP",
                     "label": "PGUP"
+                },
+                "4": {
+                    "key": "PAGEUP",
+                    "label": "PGUP"
                 }
             }
         },
@@ -1049,8 +1049,8 @@
                     "label": "\u01921"
                 },
                 "3": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "FUN4",
+                    "label": "\u01924"
                 }
             }
         },
@@ -1133,6 +1133,10 @@
                 "1": {
                     "key": "HOME",
                     "label": "HOME"
+                },
+                "4": {
+                    "key": "HOME",
+                    "label": "HOME"
                 }
             }
         },
@@ -1150,6 +1154,10 @@
                 "1": {
                     "key": "PAGEDOWN",
                     "label": "PGDN"
+                },
+                "4": {
+                    "key": "PAGEDOWN",
+                    "label": "PGDN"
                 }
             }
         },
@@ -1165,6 +1173,10 @@
                     "label": "\u2192"
                 },
                 "1": {
+                    "key": "END",
+                    "label": "END"
+                },
+                "4": {
                     "key": "END",
                     "label": "END"
                 }

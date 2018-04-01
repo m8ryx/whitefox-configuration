@@ -63,55 +63,55 @@
 //    --pixel-output
 //      generatedPixelmap.c
 //    --preprocessor-tmp-path
-//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll
+//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll
 //
 // - Configuration File -
 //    ISSILedCapabilities
-//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Scan_Devices_ISSILed@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Scan_Devices_ISSILed@['capabilities']_processed.kll
 //    MatrixARMPeriodicCapabilities
-//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Scan_Devices_MatrixARMPeriodic@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Scan_Devices_MatrixARMPeriodic@['capabilities']_processed.kll
 //    PartialMapCapabilities
-//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Macro_PartialMap@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Macro_PartialMap@['capabilities']_processed.kll
 //    PixelMapCapabilities
-//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Macro_PixelMap@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Macro_PixelMap@['capabilities']_processed.kll
 //    HID-IOCapabilities
-//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Output_HID-IO@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Output_HID-IO@['capabilities']_processed.kll
 //    USBCapabilities
-//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Output_USB@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Output_USB@['capabilities']_processed.kll
 //    latency
-//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Debug_latency@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Debug_latency@['capabilities']_processed.kll
 // - Generic Files -
 // - Base Layer -
 //    WhiteFox
-//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Scan_WhiteFox@['scancode_map']_processed.kll
+//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Scan_WhiteFox@['scancode_map']_processed.kll
 //    TrueFox
-//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Scan_WhiteFox@['scancode_map', 'truefox']_processed.kll
+//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_Scan_WhiteFox@['scancode_map', 'truefox']_processed.kll
 // - Default Layer -
 //    stdFuncMap
-//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
 //    WhiteFox
-//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/@['WhiteFox-TrueFoxBlank-0']_processed.kll
+//      /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/@['WhiteFox-TrueFoxBlank-0']_processed.kll
 // - Partial Layers -
 //    Layer 1
 //     stdFuncMap
-//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
 //     WhiteFox
-//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/@['WhiteFox-TrueFoxBlank-1']_processed.kll
+//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/@['WhiteFox-TrueFoxBlank-1']_processed.kll
 //    Layer 2
 //     stdFuncMap
-//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
 //     WhiteFox
-//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/@['WhiteFox-TrueFoxBlank-2']_processed.kll
+//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/@['WhiteFox-TrueFoxBlank-2']_processed.kll
 //    Layer 3
 //     stdFuncMap
-//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
 //     WhiteFox
-//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/@['WhiteFox-TrueFoxBlank-3']_processed.kll
+//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/@['WhiteFox-TrueFoxBlank-3']_processed.kll
 //    Layer 4
 //     stdFuncMap
-//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
 //     WhiteFox
-//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/@['WhiteFox-TrueFoxBlank-4']_processed.kll
+//       /srv/KiiConf/tmp/0670f539afc23f213c0d9f7057e1156f15ac10ac66489e/tmp_kll/@['WhiteFox-TrueFoxBlank-4']_processed.kll
 
 
 
@@ -486,42 +486,42 @@ Guide_TM( 67 ) = { 1, TriggerType_Switch1, ScheduleType_P, 0x47, 0 }; // (S071)
 // Indexed Table of Trigger Macros
 const TriggerMacro TriggerMacroList[] = {
 	/* 0 */ Define_TM( 0, 46 ), // (S001) : (HID(USBCode)"KEY_ESC");
-	/* 1 */ Define_TM( 1, 61 ), // (S002) : (HID(USBCode)"KEY_F1");
+	/* 1 */ Define_TM( 1, 35 ), // (S002) : (HID(USBCode)"KEY_1");
 	/* 2 */ Define_TM( 1, 89 ), // (S002) : (layerLatch(1));
-	/* 3 */ Define_TM( 1, 35 ), // (S002) : (HID(USBCode)"KEY_1");
-	/* 4 */ Define_TM( 2, 62 ), // (S003) : (HID(USBCode)"KEY_F2");
-	/* 5 */ Define_TM( 2, 36 ), // (S003) : (HID(USBCode)"KEY_2");
-	/* 6 */ Define_TM( 2, 91 ), // (S003) : (layerLock(2));
+	/* 3 */ Define_TM( 1, 61 ), // (S002) : (HID(USBCode)"KEY_F1");
+	/* 4 */ Define_TM( 2, 36 ), // (S003) : (HID(USBCode)"KEY_2");
+	/* 5 */ Define_TM( 2, 91 ), // (S003) : (layerLock(2));
+	/* 6 */ Define_TM( 2, 62 ), // (S003) : (HID(USBCode)"KEY_F2");
 	/* 7 */ Define_TM( 3, 92 ), // (S004) : (layerLock(3));
 	/* 8 */ Define_TM( 3, 63 ), // (S004) : (HID(USBCode)"KEY_F3");
 	/* 9 */ Define_TM( 3, 37 ), // (S004) : (HID(USBCode)"KEY_3");
-	/* 10 */ Define_TM( 4, 64 ), // (S005) : (HID(USBCode)"KEY_F4");
-	/* 11 */ Define_TM( 4, 90 ), // (S005) : (layerLatch(4));
-	/* 12 */ Define_TM( 4, 38 ), // (S005) : (HID(USBCode)"KEY_4");
-	/* 13 */ Define_TM( 5, 65 ), // (S006) : (HID(USBCode)"KEY_F5");
+	/* 10 */ Define_TM( 4, 90 ), // (S005) : (layerLatch(4));
+	/* 11 */ Define_TM( 4, 38 ), // (S005) : (HID(USBCode)"KEY_4");
+	/* 12 */ Define_TM( 4, 64 ), // (S005) : (HID(USBCode)"KEY_F4");
+	/* 13 */ Define_TM( 5, 93 ), // (S006) : (layerLock(5));
 	/* 14 */ Define_TM( 5, 39 ), // (S006) : (HID(USBCode)"KEY_5");
-	/* 15 */ Define_TM( 5, 93 ), // (S006) : (layerLock(5));
-	/* 16 */ Define_TM( 6, 66 ), // (S007) : (HID(USBCode)"KEY_F6");
-	/* 17 */ Define_TM( 6, 94 ), // (S007) : (layerLock(6));
-	/* 18 */ Define_TM( 6, 40 ), // (S007) : (HID(USBCode)"KEY_6");
-	/* 19 */ Define_TM( 7, 67 ), // (S008) : (HID(USBCode)"KEY_F7");
-	/* 20 */ Define_TM( 7, 95 ), // (S008) : (layerLock(7));
-	/* 21 */ Define_TM( 7, 41 ), // (S008) : (HID(USBCode)"KEY_7");
-	/* 22 */ Define_TM( 8, 42 ), // (S009) : (HID(USBCode)"KEY_8");
-	/* 23 */ Define_TM( 8, 68 ), // (S009) : (HID(USBCode)"KEY_F8");
+	/* 15 */ Define_TM( 5, 65 ), // (S006) : (HID(USBCode)"KEY_F5");
+	/* 16 */ Define_TM( 6, 94 ), // (S007) : (layerLock(6));
+	/* 17 */ Define_TM( 6, 40 ), // (S007) : (HID(USBCode)"KEY_6");
+	/* 18 */ Define_TM( 6, 66 ), // (S007) : (HID(USBCode)"KEY_F6");
+	/* 19 */ Define_TM( 7, 95 ), // (S008) : (layerLock(7));
+	/* 20 */ Define_TM( 7, 41 ), // (S008) : (HID(USBCode)"KEY_7");
+	/* 21 */ Define_TM( 7, 67 ), // (S008) : (HID(USBCode)"KEY_F7");
+	/* 22 */ Define_TM( 8, 68 ), // (S009) : (HID(USBCode)"KEY_F8");
+	/* 23 */ Define_TM( 8, 42 ), // (S009) : (HID(USBCode)"KEY_8");
 	/* 24 */ Define_TM( 9, 69 ), // (S010) : (HID(USBCode)"KEY_F9");
 	/* 25 */ Define_TM( 9, 43 ), // (S010) : (HID(USBCode)"KEY_9");
 	/* 26 */ Define_TM( 10, 44 ), // (S011) : (HID(USBCode)"KEY_0");
-	/* 27 */ Define_TM( 10, 83 ), // (S011) : (HID(USBCode)"KEY_LSHIFT" + HID(USBCode)"KEY_1");
-	/* 28 */ Define_TM( 10, 70 ), // (S011) : (HID(USBCode)"KEY_F10");
+	/* 27 */ Define_TM( 10, 70 ), // (S011) : (HID(USBCode)"KEY_F10");
+	/* 28 */ Define_TM( 10, 83 ), // (S011) : (HID(USBCode)"KEY_LSHIFT" + HID(USBCode)"KEY_1");
 	/* 29 */ Define_TM( 11, 6 ), // (S012) : (HID(ConsCode)"CONSUMER_VOLUME_DOWN");
 	/* 30 */ Define_TM( 11, 50 ), // (S012) : (HID(USBCode)"KEY_MINUS");
-	/* 31 */ Define_TM( 12, 5 ), // (S013) : (HID(ConsCode)"CONSUMER_VOLUME_UP");
-	/* 32 */ Define_TM( 12, 51 ), // (S013) : (HID(USBCode)"KEY_EQUAL");
+	/* 31 */ Define_TM( 12, 51 ), // (S013) : (HID(USBCode)"KEY_EQUAL");
+	/* 32 */ Define_TM( 12, 5 ), // (S013) : (HID(ConsCode)"CONSUMER_VOLUME_UP");
 	/* 33 */ Define_TM( 13, 54 ), // (S014) : (HID(USBCode)"KEY_BACKSLASH");
 	/* 34 */ Define_TM( 13, 0 ), // (S014) : (HID(ConsCode)"CONSUMER_PLAY");
-	/* 35 */ Define_TM( 14, 1 ), // (S015) : (HID(ConsCode)"CONSUMER_PAUSE");
-	/* 36 */ Define_TM( 14, 57 ), // (S015) : (HID(USBCode)"KEY_BACKTICK");
+	/* 35 */ Define_TM( 14, 57 ), // (S015) : (HID(USBCode)"KEY_BACKTICK");
+	/* 36 */ Define_TM( 14, 1 ), // (S015) : (HID(ConsCode)"CONSUMER_PAUSE");
 	/* 37 */ Define_TM( 15, 4 ), // (S016) : (HID(ConsCode)"CONSUMER_MUTE");
 	/* 38 */ Define_TM( 16, 48 ), // (S017) : (HID(USBCode)"KEY_TAB");
 	/* 39 */ Define_TM( 17, 25 ), // (S018) : (HID(USBCode)"KEY_Q");
@@ -536,62 +536,62 @@ const TriggerMacro TriggerMacroList[] = {
 	/* 48 */ Define_TM( 26, 24 ), // (S027) : (HID(USBCode)"KEY_P");
 	/* 49 */ Define_TM( 27, 52 ), // (S028) : (HID(USBCode)"KEY_LEFT_BRACKET");
 	/* 50 */ Define_TM( 27, 3 ), // (S028) : (HID(ConsCode)"CONSUMER_SCAN_PREVIOUS_TRACK");
-	/* 51 */ Define_TM( 28, 2 ), // (S029) : (HID(ConsCode)"CONSUMER_SCAN_NEXT_TRACK");
-	/* 52 */ Define_TM( 28, 53 ), // (S029) : (HID(USBCode)"KEY_RIGHT_BRACKET");
+	/* 51 */ Define_TM( 28, 53 ), // (S029) : (HID(USBCode)"KEY_RIGHT_BRACKET");
+	/* 52 */ Define_TM( 28, 2 ), // (S029) : (HID(ConsCode)"CONSUMER_SCAN_NEXT_TRACK");
 	/* 53 */ Define_TM( 29, 47 ), // (S030) : (HID(USBCode)"KEY_BACKSPACE");
-	/* 54 */ Define_TM( 30, 74 ), // (S031) : (HID(USBCode)"KEY_DELETE");
-	/* 55 */ Define_TM( 30, 7 ), // (S031) : (HID(ConsCode)"AC_STOP");
+	/* 54 */ Define_TM( 30, 7 ), // (S031) : (HID(ConsCode)"AC_STOP");
+	/* 55 */ Define_TM( 30, 74 ), // (S031) : (HID(USBCode)"KEY_DELETE");
 	/* 56 */ Define_TM( 31, 81 ), // (S032) : (HID(USBCode)"KEY_LCTRL");
 	/* 57 */ Define_TM( 32, 9 ), // (S033) : (HID(USBCode)"KEY_A");
 	/* 58 */ Define_TM( 33, 27 ), // (S034) : (HID(USBCode)"KEY_S");
 	/* 59 */ Define_TM( 34, 12 ), // (S035) : (HID(USBCode)"KEY_D");
 	/* 60 */ Define_TM( 35, 14 ), // (S036) : (HID(USBCode)"KEY_F");
 	/* 61 */ Define_TM( 36, 15 ), // (S037) : (HID(USBCode)"KEY_G");
-	/* 62 */ Define_TM( 37, 16 ), // (S038) : (HID(USBCode)"KEY_H");
-	/* 63 */ Define_TM( 37, 72 ), // (S038) : (HID(USBCode)"KEY_HOME");
-	/* 64 */ Define_TM( 37, 78 ), // (S038) : (HID(USBCode)"KEY_LEFT");
-	/* 65 */ Define_TM( 38, 18 ), // (S039) : (HID(USBCode)"KEY_J");
+	/* 62 */ Define_TM( 37, 78 ), // (S038) : (HID(USBCode)"KEY_LEFT");
+	/* 63 */ Define_TM( 37, 16 ), // (S038) : (HID(USBCode)"KEY_H");
+	/* 64 */ Define_TM( 37, 72 ), // (S038) : (HID(USBCode)"KEY_HOME");
+	/* 65 */ Define_TM( 38, 79 ), // (S039) : (HID(USBCode)"KEY_DOWN");
 	/* 66 */ Define_TM( 38, 76 ), // (S039) : (HID(USBCode)"KEY_PAGE_DOWN");
-	/* 67 */ Define_TM( 38, 79 ), // (S039) : (HID(USBCode)"KEY_DOWN");
-	/* 68 */ Define_TM( 39, 73 ), // (S040) : (HID(USBCode)"KEY_PAGE_UP");
-	/* 69 */ Define_TM( 39, 19 ), // (S040) : (HID(USBCode)"KEY_K");
-	/* 70 */ Define_TM( 39, 80 ), // (S040) : (HID(USBCode)"KEY_UP");
+	/* 67 */ Define_TM( 38, 18 ), // (S039) : (HID(USBCode)"KEY_J");
+	/* 68 */ Define_TM( 39, 19 ), // (S040) : (HID(USBCode)"KEY_K");
+	/* 69 */ Define_TM( 39, 80 ), // (S040) : (HID(USBCode)"KEY_UP");
+	/* 70 */ Define_TM( 39, 73 ), // (S040) : (HID(USBCode)"KEY_PAGE_UP");
 	/* 71 */ Define_TM( 40, 75 ), // (S041) : (HID(USBCode)"KEY_END");
-	/* 72 */ Define_TM( 40, 77 ), // (S041) : (HID(USBCode)"KEY_RIGHT");
-	/* 73 */ Define_TM( 40, 20 ), // (S041) : (HID(USBCode)"KEY_L");
+	/* 72 */ Define_TM( 40, 20 ), // (S041) : (HID(USBCode)"KEY_L");
+	/* 73 */ Define_TM( 40, 77 ), // (S041) : (HID(USBCode)"KEY_RIGHT");
 	/* 74 */ Define_TM( 41, 55 ), // (S042) : (HID(USBCode)"KEY_SEMICOLON");
 	/* 75 */ Define_TM( 42, 56 ), // (S043) : (HID(USBCode)"KEY_QUOTE");
 	/* 76 */ Define_TM( 43, 45 ), // (S045) : (HID(USBCode)"KEY_ENTER");
 	/* 77 */ Define_TM( 44, 71 ), // (S046) : (HID(USBCode)"KEY_PRINTSCREEN");
-	/* 78 */ Define_TM( 45, 98 ), // (S047) : (layerShift(4));
-	/* 79 */ Define_TM( 45, 82 ), // (S047) : (HID(USBCode)"KEY_LSHIFT");
-	/* 80 */ Define_TM( 46, 34 ), // (S049) : (HID(USBCode)"KEY_Z");
-	/* 81 */ Define_TM( 47, 32 ), // (S050) : (HID(USBCode)"KEY_X");
-	/* 82 */ Define_TM( 48, 11 ), // (S051) : (HID(USBCode)"KEY_C");
-	/* 83 */ Define_TM( 49, 30 ), // (S052) : (HID(USBCode)"KEY_V");
-	/* 84 */ Define_TM( 50, 10 ), // (S053) : (HID(USBCode)"KEY_B");
-	/* 85 */ Define_TM( 51, 22 ), // (S054) : (HID(USBCode)"KEY_N");
-	/* 86 */ Define_TM( 52, 21 ), // (S055) : (HID(USBCode)"KEY_M");
-	/* 87 */ Define_TM( 53, 58 ), // (S056) : (HID(USBCode)"KEY_COMMA");
-	/* 88 */ Define_TM( 54, 59 ), // (S057) : (HID(USBCode)"KEY_PERIOD");
-	/* 89 */ Define_TM( 55, 60 ), // (S058) : (HID(USBCode)"KEY_SLASH");
-	/* 90 */ Define_TM( 56, 86 ), // (S059) : (HID(USBCode)"KEY_RSHIFT");
+	/* 78 */ Define_TM( 45, 82 ), // (S047) : (HID(USBCode)"KEY_LSHIFT");
+	/* 79 */ Define_TM( 46, 34 ), // (S049) : (HID(USBCode)"KEY_Z");
+	/* 80 */ Define_TM( 47, 32 ), // (S050) : (HID(USBCode)"KEY_X");
+	/* 81 */ Define_TM( 48, 11 ), // (S051) : (HID(USBCode)"KEY_C");
+	/* 82 */ Define_TM( 49, 30 ), // (S052) : (HID(USBCode)"KEY_V");
+	/* 83 */ Define_TM( 50, 10 ), // (S053) : (HID(USBCode)"KEY_B");
+	/* 84 */ Define_TM( 51, 22 ), // (S054) : (HID(USBCode)"KEY_N");
+	/* 85 */ Define_TM( 52, 21 ), // (S055) : (HID(USBCode)"KEY_M");
+	/* 86 */ Define_TM( 53, 58 ), // (S056) : (HID(USBCode)"KEY_COMMA");
+	/* 87 */ Define_TM( 54, 59 ), // (S057) : (HID(USBCode)"KEY_PERIOD");
+	/* 88 */ Define_TM( 55, 60 ), // (S058) : (HID(USBCode)"KEY_SLASH");
+	/* 89 */ Define_TM( 56, 86 ), // (S059) : (HID(USBCode)"KEY_RSHIFT");
+	/* 90 */ Define_TM( 57, 80 ), // (S060) : (HID(USBCode)"KEY_UP");
 	/* 91 */ Define_TM( 57, 73 ), // (S060) : (HID(USBCode)"KEY_PAGE_UP");
-	/* 92 */ Define_TM( 57, 80 ), // (S060) : (HID(USBCode)"KEY_UP");
-	/* 93 */ Define_TM( 58, 92 ), // (S061) : (layerLock(3));
-	/* 94 */ Define_TM( 58, 97 ), // (S061) : (layerShift(2));
-	/* 95 */ Define_TM( 58, 8 ), // (S061) : (HID(SysCode)"SYS_SLEEP");
+	/* 92 */ Define_TM( 58, 92 ), // (S061) : (layerLock(3));
+	/* 93 */ Define_TM( 58, 97 ), // (S061) : (layerShift(2));
+	/* 94 */ Define_TM( 58, 8 ), // (S061) : (HID(SysCode)"SYS_SLEEP");
+	/* 95 */ Define_TM( 59, 98 ), // (S062) : (layerShift(4));
 	/* 96 */ Define_TM( 59, 96 ), // (S062) : (layerShift(1));
 	/* 97 */ Define_TM( 60, 84 ), // (S063) : (HID(USBCode)"KEY_LALT");
 	/* 98 */ Define_TM( 61, 85 ), // (S064) : (HID(USBCode)"KEY_LGUI");
 	/* 99 */ Define_TM( 62, 49 ), // (S065) : (HID(USBCode)"KEY_SPACE");
 	/* 100 */ Define_TM( 63, 88 ), // (S066) : (HID(USBCode)"KEY_RGUI");
-	/* 101 */ Define_TM( 64, 87 ), // (S067) : (HID(USBCode)"KEY_RALT");
-	/* 102 */ Define_TM( 64, 96 ), // (S067) : (layerShift(1));
-	/* 103 */ Define_TM( 65, 72 ), // (S069) : (HID(USBCode)"KEY_HOME");
-	/* 104 */ Define_TM( 65, 78 ), // (S069) : (HID(USBCode)"KEY_LEFT");
-	/* 105 */ Define_TM( 66, 76 ), // (S070) : (HID(USBCode)"KEY_PAGE_DOWN");
-	/* 106 */ Define_TM( 66, 79 ), // (S070) : (HID(USBCode)"KEY_DOWN");
+	/* 101 */ Define_TM( 64, 96 ), // (S067) : (layerShift(1));
+	/* 102 */ Define_TM( 64, 87 ), // (S067) : (HID(USBCode)"KEY_RALT");
+	/* 103 */ Define_TM( 65, 78 ), // (S069) : (HID(USBCode)"KEY_LEFT");
+	/* 104 */ Define_TM( 65, 72 ), // (S069) : (HID(USBCode)"KEY_HOME");
+	/* 105 */ Define_TM( 66, 79 ), // (S070) : (HID(USBCode)"KEY_DOWN");
+	/* 106 */ Define_TM( 66, 76 ), // (S070) : (HID(USBCode)"KEY_PAGE_DOWN");
 	/* 107 */ Define_TM( 67, 77 ), // (S071) : (HID(USBCode)"KEY_RIGHT");
 	/* 108 */ Define_TM( 67, 75 ), // (S071) : (HID(USBCode)"KEY_END");
 };
@@ -621,20 +621,20 @@ TriggerMacroRecord TriggerMacroRecordList[ TriggerMacroNum ];
 // - Default Layer -
 Define_TL( default, 0x00 ) = { 0 };
 Define_TL( default, 0x01 ) = { 1, 0 };
-Define_TL( default, 0x02 ) = { 1, 3 };
-Define_TL( default, 0x03 ) = { 1, 5 };
+Define_TL( default, 0x02 ) = { 1, 1 };
+Define_TL( default, 0x03 ) = { 1, 4 };
 Define_TL( default, 0x04 ) = { 1, 9 };
-Define_TL( default, 0x05 ) = { 1, 12 };
+Define_TL( default, 0x05 ) = { 1, 11 };
 Define_TL( default, 0x06 ) = { 1, 14 };
-Define_TL( default, 0x07 ) = { 1, 18 };
-Define_TL( default, 0x08 ) = { 1, 21 };
-Define_TL( default, 0x09 ) = { 1, 22 };
+Define_TL( default, 0x07 ) = { 1, 17 };
+Define_TL( default, 0x08 ) = { 1, 20 };
+Define_TL( default, 0x09 ) = { 1, 23 };
 Define_TL( default, 0x0A ) = { 1, 25 };
 Define_TL( default, 0x0B ) = { 1, 26 };
 Define_TL( default, 0x0C ) = { 1, 30 };
-Define_TL( default, 0x0D ) = { 1, 32 };
+Define_TL( default, 0x0D ) = { 1, 31 };
 Define_TL( default, 0x0E ) = { 1, 33 };
-Define_TL( default, 0x0F ) = { 1, 36 };
+Define_TL( default, 0x0F ) = { 1, 35 };
 Define_TL( default, 0x10 ) = { 1, 37 };
 Define_TL( default, 0x11 ) = { 1, 38 };
 Define_TL( default, 0x12 ) = { 1, 39 };
@@ -648,67 +648,67 @@ Define_TL( default, 0x19 ) = { 1, 46 };
 Define_TL( default, 0x1A ) = { 1, 47 };
 Define_TL( default, 0x1B ) = { 1, 48 };
 Define_TL( default, 0x1C ) = { 1, 49 };
-Define_TL( default, 0x1D ) = { 1, 52 };
+Define_TL( default, 0x1D ) = { 1, 51 };
 Define_TL( default, 0x1E ) = { 1, 53 };
-Define_TL( default, 0x1F ) = { 1, 54 };
+Define_TL( default, 0x1F ) = { 1, 55 };
 Define_TL( default, 0x20 ) = { 1, 56 };
 Define_TL( default, 0x21 ) = { 1, 57 };
 Define_TL( default, 0x22 ) = { 1, 58 };
 Define_TL( default, 0x23 ) = { 1, 59 };
 Define_TL( default, 0x24 ) = { 1, 60 };
 Define_TL( default, 0x25 ) = { 1, 61 };
-Define_TL( default, 0x26 ) = { 1, 62 };
-Define_TL( default, 0x27 ) = { 1, 65 };
-Define_TL( default, 0x28 ) = { 1, 69 };
-Define_TL( default, 0x29 ) = { 1, 73 };
+Define_TL( default, 0x26 ) = { 1, 63 };
+Define_TL( default, 0x27 ) = { 1, 67 };
+Define_TL( default, 0x28 ) = { 1, 68 };
+Define_TL( default, 0x29 ) = { 1, 72 };
 Define_TL( default, 0x2A ) = { 1, 74 };
 Define_TL( default, 0x2B ) = { 1, 75 };
 Define_TL( default, 0x2C ) = { 0 };
 Define_TL( default, 0x2D ) = { 1, 76 };
 Define_TL( default, 0x2E ) = { 1, 77 };
-Define_TL( default, 0x2F ) = { 1, 79 };
+Define_TL( default, 0x2F ) = { 1, 78 };
 Define_TL( default, 0x30 ) = { 0 };
-Define_TL( default, 0x31 ) = { 1, 80 };
-Define_TL( default, 0x32 ) = { 1, 81 };
-Define_TL( default, 0x33 ) = { 1, 82 };
-Define_TL( default, 0x34 ) = { 1, 83 };
-Define_TL( default, 0x35 ) = { 1, 84 };
-Define_TL( default, 0x36 ) = { 1, 85 };
-Define_TL( default, 0x37 ) = { 1, 86 };
-Define_TL( default, 0x38 ) = { 1, 87 };
-Define_TL( default, 0x39 ) = { 1, 88 };
-Define_TL( default, 0x3A ) = { 1, 89 };
-Define_TL( default, 0x3B ) = { 1, 90 };
-Define_TL( default, 0x3C ) = { 1, 92 };
-Define_TL( default, 0x3D ) = { 1, 94 };
+Define_TL( default, 0x31 ) = { 1, 79 };
+Define_TL( default, 0x32 ) = { 1, 80 };
+Define_TL( default, 0x33 ) = { 1, 81 };
+Define_TL( default, 0x34 ) = { 1, 82 };
+Define_TL( default, 0x35 ) = { 1, 83 };
+Define_TL( default, 0x36 ) = { 1, 84 };
+Define_TL( default, 0x37 ) = { 1, 85 };
+Define_TL( default, 0x38 ) = { 1, 86 };
+Define_TL( default, 0x39 ) = { 1, 87 };
+Define_TL( default, 0x3A ) = { 1, 88 };
+Define_TL( default, 0x3B ) = { 1, 89 };
+Define_TL( default, 0x3C ) = { 1, 90 };
+Define_TL( default, 0x3D ) = { 1, 93 };
 Define_TL( default, 0x3E ) = { 1, 96 };
 Define_TL( default, 0x3F ) = { 1, 97 };
 Define_TL( default, 0x40 ) = { 1, 98 };
 Define_TL( default, 0x41 ) = { 1, 99 };
 Define_TL( default, 0x42 ) = { 1, 100 };
-Define_TL( default, 0x43 ) = { 1, 101 };
+Define_TL( default, 0x43 ) = { 1, 102 };
 Define_TL( default, 0x44 ) = { 0 };
-Define_TL( default, 0x45 ) = { 1, 104 };
-Define_TL( default, 0x46 ) = { 1, 106 };
+Define_TL( default, 0x45 ) = { 1, 103 };
+Define_TL( default, 0x46 ) = { 1, 105 };
 Define_TL( default, 0x47 ) = { 1, 107 };
 
 
 // - Partial Layers -
 // Partial Layer 1
-Define_TL( layer1, 0x00 ) = { 1, 1 };
-Define_TL( layer1, 0x01 ) = { 1, 4 };
+Define_TL( layer1, 0x00 ) = { 1, 3 };
+Define_TL( layer1, 0x01 ) = { 1, 6 };
 Define_TL( layer1, 0x02 ) = { 1, 8 };
-Define_TL( layer1, 0x03 ) = { 1, 10 };
-Define_TL( layer1, 0x04 ) = { 1, 13 };
-Define_TL( layer1, 0x05 ) = { 1, 16 };
-Define_TL( layer1, 0x06 ) = { 1, 19 };
-Define_TL( layer1, 0x07 ) = { 1, 23 };
+Define_TL( layer1, 0x03 ) = { 1, 12 };
+Define_TL( layer1, 0x04 ) = { 1, 15 };
+Define_TL( layer1, 0x05 ) = { 1, 18 };
+Define_TL( layer1, 0x06 ) = { 1, 21 };
+Define_TL( layer1, 0x07 ) = { 1, 22 };
 Define_TL( layer1, 0x08 ) = { 1, 24 };
-Define_TL( layer1, 0x09 ) = { 1, 28 };
+Define_TL( layer1, 0x09 ) = { 1, 27 };
 Define_TL( layer1, 0x0A ) = { 1, 29 };
-Define_TL( layer1, 0x0B ) = { 1, 31 };
+Define_TL( layer1, 0x0B ) = { 1, 32 };
 Define_TL( layer1, 0x0C ) = { 1, 34 };
-Define_TL( layer1, 0x0D ) = { 1, 35 };
+Define_TL( layer1, 0x0D ) = { 1, 36 };
 Define_TL( layer1, 0x0E ) = { 0 };
 Define_TL( layer1, 0x0F ) = { 0 };
 Define_TL( layer1, 0x10 ) = { 0 };
@@ -722,9 +722,9 @@ Define_TL( layer1, 0x17 ) = { 0 };
 Define_TL( layer1, 0x18 ) = { 0 };
 Define_TL( layer1, 0x19 ) = { 0 };
 Define_TL( layer1, 0x1A ) = { 1, 50 };
-Define_TL( layer1, 0x1B ) = { 1, 51 };
+Define_TL( layer1, 0x1B ) = { 1, 52 };
 Define_TL( layer1, 0x1C ) = { 0 };
-Define_TL( layer1, 0x1D ) = { 1, 55 };
+Define_TL( layer1, 0x1D ) = { 1, 54 };
 Define_TL( layer1, 0x1E ) = { 0 };
 Define_TL( layer1, 0x1F ) = { 0 };
 Define_TL( layer1, 0x20 ) = { 0 };
@@ -754,26 +754,26 @@ Define_TL( layer1, 0x37 ) = { 0 };
 Define_TL( layer1, 0x38 ) = { 0 };
 Define_TL( layer1, 0x39 ) = { 0 };
 Define_TL( layer1, 0x3A ) = { 1, 91 };
-Define_TL( layer1, 0x3B ) = { 1, 95 };
+Define_TL( layer1, 0x3B ) = { 1, 94 };
 Define_TL( layer1, 0x3C ) = { 0 };
 Define_TL( layer1, 0x3D ) = { 0 };
 Define_TL( layer1, 0x3E ) = { 0 };
 Define_TL( layer1, 0x3F ) = { 0 };
 Define_TL( layer1, 0x40 ) = { 0 };
-Define_TL( layer1, 0x41 ) = { 1, 102 };
+Define_TL( layer1, 0x41 ) = { 1, 101 };
 Define_TL( layer1, 0x42 ) = { 0 };
-Define_TL( layer1, 0x43 ) = { 1, 103 };
-Define_TL( layer1, 0x44 ) = { 1, 105 };
+Define_TL( layer1, 0x43 ) = { 1, 104 };
+Define_TL( layer1, 0x44 ) = { 1, 106 };
 Define_TL( layer1, 0x45 ) = { 1, 108 };
 
 // Partial Layer 2
 Define_TL( layer2, 0x00 ) = { 1, 2 };
-Define_TL( layer2, 0x01 ) = { 1, 6 };
+Define_TL( layer2, 0x01 ) = { 1, 5 };
 Define_TL( layer2, 0x02 ) = { 1, 7 };
-Define_TL( layer2, 0x03 ) = { 1, 11 };
-Define_TL( layer2, 0x04 ) = { 1, 15 };
-Define_TL( layer2, 0x05 ) = { 1, 17 };
-Define_TL( layer2, 0x06 ) = { 1, 20 };
+Define_TL( layer2, 0x03 ) = { 1, 10 };
+Define_TL( layer2, 0x04 ) = { 1, 13 };
+Define_TL( layer2, 0x05 ) = { 1, 16 };
+Define_TL( layer2, 0x06 ) = { 1, 19 };
 Define_TL( layer2, 0x07 ) = { 0 };
 Define_TL( layer2, 0x08 ) = { 0 };
 Define_TL( layer2, 0x09 ) = { 0 };
@@ -832,23 +832,23 @@ Define_TL( layer2, 0x3D ) = { 0 };
 Define_TL( layer2, 0x3E ) = { 0 };
 Define_TL( layer2, 0x3F ) = { 0 };
 Define_TL( layer2, 0x40 ) = { 0 };
-Define_TL( layer2, 0x41 ) = { 1, 102 };
+Define_TL( layer2, 0x41 ) = { 1, 101 };
 
 // Partial Layer 3
-Define_TL( layer3, 0x00 ) = { 1, 3 };
-Define_TL( layer3, 0x01 ) = { 1, 5 };
+Define_TL( layer3, 0x00 ) = { 1, 1 };
+Define_TL( layer3, 0x01 ) = { 1, 4 };
 Define_TL( layer3, 0x02 ) = { 1, 9 };
-Define_TL( layer3, 0x03 ) = { 1, 12 };
+Define_TL( layer3, 0x03 ) = { 1, 11 };
 Define_TL( layer3, 0x04 ) = { 1, 14 };
-Define_TL( layer3, 0x05 ) = { 1, 18 };
-Define_TL( layer3, 0x06 ) = { 1, 21 };
-Define_TL( layer3, 0x07 ) = { 1, 22 };
+Define_TL( layer3, 0x05 ) = { 1, 17 };
+Define_TL( layer3, 0x06 ) = { 1, 20 };
+Define_TL( layer3, 0x07 ) = { 1, 23 };
 Define_TL( layer3, 0x08 ) = { 1, 25 };
-Define_TL( layer3, 0x09 ) = { 1, 27 };
+Define_TL( layer3, 0x09 ) = { 1, 28 };
 Define_TL( layer3, 0x0A ) = { 1, 29 };
-Define_TL( layer3, 0x0B ) = { 1, 31 };
+Define_TL( layer3, 0x0B ) = { 1, 32 };
 Define_TL( layer3, 0x0C ) = { 1, 34 };
-Define_TL( layer3, 0x0D ) = { 1, 35 };
+Define_TL( layer3, 0x0D ) = { 1, 36 };
 Define_TL( layer3, 0x0E ) = { 0 };
 Define_TL( layer3, 0x0F ) = { 0 };
 Define_TL( layer3, 0x10 ) = { 0 };
@@ -862,25 +862,25 @@ Define_TL( layer3, 0x17 ) = { 0 };
 Define_TL( layer3, 0x18 ) = { 0 };
 Define_TL( layer3, 0x19 ) = { 0 };
 Define_TL( layer3, 0x1A ) = { 1, 50 };
-Define_TL( layer3, 0x1B ) = { 1, 51 };
+Define_TL( layer3, 0x1B ) = { 1, 52 };
 Define_TL( layer3, 0x1C ) = { 0 };
-Define_TL( layer3, 0x1D ) = { 1, 55 };
+Define_TL( layer3, 0x1D ) = { 1, 54 };
 Define_TL( layer3, 0x1E ) = { 0 };
 Define_TL( layer3, 0x1F ) = { 0 };
 Define_TL( layer3, 0x20 ) = { 0 };
 Define_TL( layer3, 0x21 ) = { 0 };
 Define_TL( layer3, 0x22 ) = { 0 };
 Define_TL( layer3, 0x23 ) = { 0 };
-Define_TL( layer3, 0x24 ) = { 1, 64 };
-Define_TL( layer3, 0x25 ) = { 1, 67 };
-Define_TL( layer3, 0x26 ) = { 1, 70 };
-Define_TL( layer3, 0x27 ) = { 1, 72 };
+Define_TL( layer3, 0x24 ) = { 1, 62 };
+Define_TL( layer3, 0x25 ) = { 1, 65 };
+Define_TL( layer3, 0x26 ) = { 1, 69 };
+Define_TL( layer3, 0x27 ) = { 1, 73 };
 Define_TL( layer3, 0x28 ) = { 0 };
 Define_TL( layer3, 0x29 ) = { 0 };
 Define_TL( layer3, 0x2A ) = { 0 };
 Define_TL( layer3, 0x2B ) = { 0 };
 Define_TL( layer3, 0x2C ) = { 0 };
-Define_TL( layer3, 0x2D ) = { 1, 78 };
+Define_TL( layer3, 0x2D ) = { 0 };
 Define_TL( layer3, 0x2E ) = { 0 };
 Define_TL( layer3, 0x2F ) = { 0 };
 Define_TL( layer3, 0x30 ) = { 0 };
@@ -894,25 +894,25 @@ Define_TL( layer3, 0x37 ) = { 0 };
 Define_TL( layer3, 0x38 ) = { 0 };
 Define_TL( layer3, 0x39 ) = { 0 };
 Define_TL( layer3, 0x3A ) = { 0 };
-Define_TL( layer3, 0x3B ) = { 1, 93 };
-Define_TL( layer3, 0x3C ) = { 1, 96 };
+Define_TL( layer3, 0x3B ) = { 1, 92 };
+Define_TL( layer3, 0x3C ) = { 1, 95 };
 Define_TL( layer3, 0x3D ) = { 0 };
 Define_TL( layer3, 0x3E ) = { 0 };
 Define_TL( layer3, 0x3F ) = { 0 };
 Define_TL( layer3, 0x40 ) = { 0 };
-Define_TL( layer3, 0x41 ) = { 1, 102 };
+Define_TL( layer3, 0x41 ) = { 1, 101 };
 
 // Partial Layer 4
-Define_TL( layer4, 0x00 ) = { 1, 1 };
-Define_TL( layer4, 0x01 ) = { 1, 4 };
+Define_TL( layer4, 0x00 ) = { 1, 3 };
+Define_TL( layer4, 0x01 ) = { 1, 6 };
 Define_TL( layer4, 0x02 ) = { 1, 8 };
-Define_TL( layer4, 0x03 ) = { 1, 10 };
-Define_TL( layer4, 0x04 ) = { 1, 13 };
-Define_TL( layer4, 0x05 ) = { 1, 16 };
-Define_TL( layer4, 0x06 ) = { 1, 19 };
-Define_TL( layer4, 0x07 ) = { 1, 23 };
+Define_TL( layer4, 0x03 ) = { 1, 12 };
+Define_TL( layer4, 0x04 ) = { 1, 15 };
+Define_TL( layer4, 0x05 ) = { 1, 18 };
+Define_TL( layer4, 0x06 ) = { 1, 21 };
+Define_TL( layer4, 0x07 ) = { 1, 22 };
 Define_TL( layer4, 0x08 ) = { 1, 24 };
-Define_TL( layer4, 0x09 ) = { 1, 28 };
+Define_TL( layer4, 0x09 ) = { 1, 27 };
 Define_TL( layer4, 0x0A ) = { 0 };
 Define_TL( layer4, 0x0B ) = { 0 };
 Define_TL( layer4, 0x0C ) = { 0 };
@@ -939,9 +939,9 @@ Define_TL( layer4, 0x20 ) = { 0 };
 Define_TL( layer4, 0x21 ) = { 0 };
 Define_TL( layer4, 0x22 ) = { 0 };
 Define_TL( layer4, 0x23 ) = { 0 };
-Define_TL( layer4, 0x24 ) = { 1, 63 };
+Define_TL( layer4, 0x24 ) = { 1, 64 };
 Define_TL( layer4, 0x25 ) = { 1, 66 };
-Define_TL( layer4, 0x26 ) = { 1, 68 };
+Define_TL( layer4, 0x26 ) = { 1, 70 };
 Define_TL( layer4, 0x27 ) = { 1, 71 };
 Define_TL( layer4, 0x28 ) = { 0 };
 Define_TL( layer4, 0x29 ) = { 0 };
@@ -961,14 +961,18 @@ Define_TL( layer4, 0x36 ) = { 0 };
 Define_TL( layer4, 0x37 ) = { 0 };
 Define_TL( layer4, 0x38 ) = { 0 };
 Define_TL( layer4, 0x39 ) = { 0 };
-Define_TL( layer4, 0x3A ) = { 0 };
-Define_TL( layer4, 0x3B ) = { 1, 95 };
+Define_TL( layer4, 0x3A ) = { 1, 91 };
+Define_TL( layer4, 0x3B ) = { 1, 94 };
 Define_TL( layer4, 0x3C ) = { 0 };
 Define_TL( layer4, 0x3D ) = { 0 };
 Define_TL( layer4, 0x3E ) = { 0 };
 Define_TL( layer4, 0x3F ) = { 0 };
 Define_TL( layer4, 0x40 ) = { 0 };
-Define_TL( layer4, 0x41 ) = { 1, 102 };
+Define_TL( layer4, 0x41 ) = { 1, 101 };
+Define_TL( layer4, 0x42 ) = { 0 };
+Define_TL( layer4, 0x43 ) = { 1, 104 };
+Define_TL( layer4, 0x44 ) = { 1, 106 };
+Define_TL( layer4, 0x45 ) = { 1, 108 };
 
 
 // -- ScanCode Offset Map
@@ -1018,7 +1022,7 @@ layer3_tl_0x00, layer3_tl_0x01, layer3_tl_0x02, layer3_tl_0x03, layer3_tl_0x04, 
 
 // Partial Layer 4
 const nat_ptr_t *layer4_scanMap[] = { 
-layer4_tl_0x00, layer4_tl_0x01, layer4_tl_0x02, layer4_tl_0x03, layer4_tl_0x04, layer4_tl_0x05, layer4_tl_0x06, layer4_tl_0x07, layer4_tl_0x08, layer4_tl_0x09, layer4_tl_0x0A, layer4_tl_0x0B, layer4_tl_0x0C, layer4_tl_0x0D, layer4_tl_0x0E, layer4_tl_0x0F, layer4_tl_0x10, layer4_tl_0x11, layer4_tl_0x12, layer4_tl_0x13, layer4_tl_0x14, layer4_tl_0x15, layer4_tl_0x16, layer4_tl_0x17, layer4_tl_0x18, layer4_tl_0x19, layer4_tl_0x1A, layer4_tl_0x1B, layer4_tl_0x1C, layer4_tl_0x1D, layer4_tl_0x1E, layer4_tl_0x1F, layer4_tl_0x20, layer4_tl_0x21, layer4_tl_0x22, layer4_tl_0x23, layer4_tl_0x24, layer4_tl_0x25, layer4_tl_0x26, layer4_tl_0x27, layer4_tl_0x28, layer4_tl_0x29, layer4_tl_0x2A, layer4_tl_0x2B, layer4_tl_0x2C, layer4_tl_0x2D, layer4_tl_0x2E, layer4_tl_0x2F, layer4_tl_0x30, layer4_tl_0x31, layer4_tl_0x32, layer4_tl_0x33, layer4_tl_0x34, layer4_tl_0x35, layer4_tl_0x36, layer4_tl_0x37, layer4_tl_0x38, layer4_tl_0x39, layer4_tl_0x3A, layer4_tl_0x3B, layer4_tl_0x3C, layer4_tl_0x3D, layer4_tl_0x3E, layer4_tl_0x3F, layer4_tl_0x40, layer4_tl_0x41
+layer4_tl_0x00, layer4_tl_0x01, layer4_tl_0x02, layer4_tl_0x03, layer4_tl_0x04, layer4_tl_0x05, layer4_tl_0x06, layer4_tl_0x07, layer4_tl_0x08, layer4_tl_0x09, layer4_tl_0x0A, layer4_tl_0x0B, layer4_tl_0x0C, layer4_tl_0x0D, layer4_tl_0x0E, layer4_tl_0x0F, layer4_tl_0x10, layer4_tl_0x11, layer4_tl_0x12, layer4_tl_0x13, layer4_tl_0x14, layer4_tl_0x15, layer4_tl_0x16, layer4_tl_0x17, layer4_tl_0x18, layer4_tl_0x19, layer4_tl_0x1A, layer4_tl_0x1B, layer4_tl_0x1C, layer4_tl_0x1D, layer4_tl_0x1E, layer4_tl_0x1F, layer4_tl_0x20, layer4_tl_0x21, layer4_tl_0x22, layer4_tl_0x23, layer4_tl_0x24, layer4_tl_0x25, layer4_tl_0x26, layer4_tl_0x27, layer4_tl_0x28, layer4_tl_0x29, layer4_tl_0x2A, layer4_tl_0x2B, layer4_tl_0x2C, layer4_tl_0x2D, layer4_tl_0x2E, layer4_tl_0x2F, layer4_tl_0x30, layer4_tl_0x31, layer4_tl_0x32, layer4_tl_0x33, layer4_tl_0x34, layer4_tl_0x35, layer4_tl_0x36, layer4_tl_0x37, layer4_tl_0x38, layer4_tl_0x39, layer4_tl_0x3A, layer4_tl_0x3B, layer4_tl_0x3C, layer4_tl_0x3D, layer4_tl_0x3E, layer4_tl_0x3F, layer4_tl_0x40, layer4_tl_0x41, layer4_tl_0x42, layer4_tl_0x43, layer4_tl_0x44, layer4_tl_0x45
 };
 
 
