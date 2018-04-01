@@ -23,3 +23,9 @@ h = home
 l = end
 
 Also explicitly reset the media and sleep keys in 3 and 4 in a hopefully sensible manner.
+
+Fun with layers
+===============
+Discovered that f1 does not send to main...so couldn't get back to typing. Now f1-ESC and f2-ESC both do None layers.
+
+That didn't work...so still not able to escape from "web mode"
