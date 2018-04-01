@@ -61,3 +61,4 @@ I should probably remove Lock-1 from Layer 2 as Layer 1 is intended as just a mo
 
 ### Todo
 - Remove Locks for layers 1 and 4, convert to Latches
+- Change layer 3 or 4 numbers to actual numbers
