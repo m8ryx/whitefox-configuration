@@ -2271,7 +2271,7 @@
         },
         "2": {
             ":0 S002": {
-                "kll": "S0x002 : layerLock(1);",
+                "kll": "S0x002 : layerLatch(1);",
                 "result": [
                     [
                         {
@@ -2281,7 +2281,7 @@
                                     "value": 1
                                 }
                             ],
-                            "name": "layerLock",
+                            "name": "layerLatch",
                             "type": "Capability"
                         }
                     ]
@@ -2346,7 +2346,7 @@
                 ]
             },
             ":0 S005": {
-                "kll": "S0x005 : layerLock(4);",
+                "kll": "S0x005 : layerLatch(4);",
                 "result": [
                     [
                         {
@@ -2356,7 +2356,7 @@
                                     "value": 4
                                 }
                             ],
-                            "name": "layerLock",
+                            "name": "layerLatch",
                             "type": "Capability"
                         }
                     ]

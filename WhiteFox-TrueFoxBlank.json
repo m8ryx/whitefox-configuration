@@ -47,8 +47,8 @@
                     "label": "F1"
                 },
                 "2": {
-                    "key": "LCK1",
-                    "label": "LOCK-1"
+                    "key": "LAT1",
+                    "label": "LATCH-1"
                 }
             }
         },
@@ -110,8 +110,8 @@
                     "label": "F4"
                 },
                 "2": {
-                    "key": "LCK4",
-                    "label": "LOCK-4"
+                    "key": "LAT4",
+                    "label": "LATCH-4"
                 }
             }
         },
