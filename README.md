@@ -38,7 +38,7 @@ Browsing Layer
 - h = left arrow
 - l = right arrow
 - Media Controls as Layer 1
-- the left shift key is the modifier to enable layer 4:
+- Fn key gives L4
 
 ### Layer 4:
 Browsing modifier layer
@@ -47,6 +47,7 @@ Browsing modifier layer
 - h = home
 - l = end
 - Also explicitly reset the media and sleep keys in 3 and 4 in a hopefully sensible manner.
+- similar to L1 functionality
 
 ### Notes
 Discovered that f1 does not send to main...so couldn't get back to typing. Now f1-ESC and f2-ESC both do None layers.
