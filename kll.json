@@ -24,6 +24,7 @@
             ],
             "name": "all_on",
             "setting": "A[all_on]",
+            "state": null,
             "type": "Animation"
         }
     ],
@@ -56,6 +57,7 @@
                 }
             ],
             "args_count": 6,
+            "features": "CapabilityFeature_None",
             "index": 19,
             "name": "Pixel_Animation_capability"
         },
@@ -67,6 +69,7 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_None",
             "index": 18,
             "name": "Pixel_AnimationIndex_capability"
         },
@@ -78,6 +81,7 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_None",
             "index": 17,
             "name": "Pixel_AnimationControl_capability"
         },
@@ -89,24 +93,28 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_Safe",
             "index": 8,
             "name": "Output_consCtrlSend_capability"
         },
         "flashMode": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_Safe",
             "index": 9,
             "name": "Output_flashMode_capability"
         },
         "kbdProtocolBoot": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_None",
             "index": 10,
             "name": "Output_kbdProtocolBoot_capability"
         },
         "kbdProtocolNKRO": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_None",
             "index": 11,
             "name": "Output_kbdProtocolNKRO_capability"
         },
@@ -118,8 +126,9 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_Safe",
             "index": 1,
-            "name": "Macro_layerLatch_capability"
+            "name": "Layer_layerLatch_capability"
         },
         "layerLock": {
             "args": [
@@ -129,8 +138,9 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_Safe",
             "index": 2,
-            "name": "Macro_layerLock_capability"
+            "name": "Layer_layerLock_capability"
         },
         "layerRotate": {
             "args": [
@@ -140,8 +150,9 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_Safe",
             "index": 3,
-            "name": "Macro_layerRotate_capability"
+            "name": "Layer_layerRotate_capability"
         },
         "layerShift": {
             "args": [
@@ -151,8 +162,9 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_Safe",
             "index": 4,
-            "name": "Macro_layerShift_capability"
+            "name": "Layer_layerShift_capability"
         },
         "layerState": {
             "args": [
@@ -166,8 +178,9 @@
                 }
             ],
             "args_count": 2,
+            "features": "CapabilityFeature_Safe",
             "index": 5,
-            "name": "Macro_layerState_capability"
+            "name": "Layer_layerState_capability"
         },
         "ledControl": {
             "args": [
@@ -181,6 +194,7 @@
                 }
             ],
             "args_count": 2,
+            "features": "CapabilityFeature_None",
             "index": 0,
             "name": "LED_control_capability"
         },
@@ -200,18 +214,21 @@
                 }
             ],
             "args_count": 3,
+            "features": "CapabilityFeature_Safe",
             "index": 16,
             "name": "Output_usbMouse_capability"
         },
         "noneOut": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_Safe",
             "index": 12,
             "name": "Output_noneSend_capability"
         },
         "pixel": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_None",
             "index": 20,
             "name": "Pixel_Pixel_capability"
         },
@@ -223,24 +240,28 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_Safe",
             "index": 13,
             "name": "Output_sysCtrlSend_capability"
         },
         "testThreadSafe": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_Safe",
             "index": 6,
             "name": "Macro_testThreadSafe_capability"
         },
         "testThreadUnsafe": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_None",
             "index": 7,
             "name": "Macro_testThreadUnsafe_capability"
         },
         "toggleKbdProtocol": {
             "args": [],
             "args_count": 0,
+            "features": "CapabilityFeature_None",
             "index": 14,
             "name": "Output_toggleKbdProtocol_capability"
         },
@@ -252,6 +273,7 @@
                 }
             ],
             "args_count": 1,
+            "features": "CapabilityFeature_Safe",
             "index": 15,
             "name": "Output_usbCodeSend_capability"
         }
@@ -351,7 +373,7 @@
         },
         "MinDebounceTime": {
             "name": "MinDebounceTime_define",
-            "value": "5"
+            "value": "6"
         },
         "Output_HIDIOEnabled": {
             "name": "Output_HIDIOEnabled_define",
@@ -2394,6 +2416,435 @@
                         {
                             "type": "ScanCode",
                             "uid": 8
+                        }
+                    ]
+                ]
+            },
+            ":0 S067": {
+                "kll": "S0x043 : layerShift(1);",
+                "result": [
+                    [
+                        {
+                            "args": [
+                                {
+                                    "type": "CapArgValue",
+                                    "value": 1
+                                }
+                            ],
+                            "name": "layerShift",
+                            "type": "Capability"
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 67
+                        }
+                    ]
+                ]
+            }
+        },
+        "3": {
+            ":0 S010": {
+                "kll": "S0x00a : U0x0e1 + U0x035;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 225
+                        },
+                        {
+                            "type": "USBCode",
+                            "uid": 53
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 10
+                        }
+                    ]
+                ]
+            },
+            ":0 S011": {
+                "kll": "S0x00b : U0x0e1 + U0x01e;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 225
+                        },
+                        {
+                            "type": "USBCode",
+                            "uid": 30
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 11
+                        }
+                    ]
+                ]
+            },
+            ":0 S012": {
+                "kll": "S0x00c : CONS0x0ea;",
+                "result": [
+                    [
+                        {
+                            "type": "ConsCode",
+                            "uid": 234
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 12
+                        }
+                    ]
+                ]
+            },
+            ":0 S013": {
+                "kll": "S0x00d : CONS0x0e9;",
+                "result": [
+                    [
+                        {
+                            "type": "ConsCode",
+                            "uid": 233
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 13
+                        }
+                    ]
+                ]
+            },
+            ":0 S014": {
+                "kll": "S0x00e : CONS0x0b0;",
+                "result": [
+                    [
+                        {
+                            "type": "ConsCode",
+                            "uid": 176
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 14
+                        }
+                    ]
+                ]
+            },
+            ":0 S015": {
+                "kll": "S0x00f : CONS0x0b1;",
+                "result": [
+                    [
+                        {
+                            "type": "ConsCode",
+                            "uid": 177
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 15
+                        }
+                    ]
+                ]
+            },
+            ":0 S017": {
+                "kll": "S0x011 : CONS0x0b5;",
+                "result": [
+                    [
+                        {
+                            "type": "ConsCode",
+                            "uid": 181
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 17
+                        }
+                    ]
+                ]
+            },
+            ":0 S030": {
+                "kll": "S0x01e : CONS0x0b6;",
+                "result": [
+                    [
+                        {
+                            "type": "ConsCode",
+                            "uid": 182
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 30
+                        }
+                    ]
+                ]
+            },
+            ":0 S031": {
+                "kll": "S0x01f : CONS0x226;",
+                "result": [
+                    [
+                        {
+                            "type": "ConsCode",
+                            "uid": 550
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 31
+                        }
+                    ]
+                ]
+            },
+            ":0 S038": {
+                "kll": "S0x026 : U0x050;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 80
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 38
+                        }
+                    ]
+                ]
+            },
+            ":0 S039": {
+                "kll": "S0x027 : U0x051;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 81
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 39
+                        }
+                    ]
+                ]
+            },
+            ":0 S040": {
+                "kll": "S0x028 : U0x052;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 82
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 40
+                        }
+                    ]
+                ]
+            },
+            ":0 S041": {
+                "kll": "S0x029 : U0x04f;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 79
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 41
+                        }
+                    ]
+                ]
+            },
+            ":0 S047": {
+                "kll": "S0x02f : layerShift(4);",
+                "result": [
+                    [
+                        {
+                            "args": [
+                                {
+                                    "type": "CapArgValue",
+                                    "value": 4
+                                }
+                            ],
+                            "name": "layerShift",
+                            "type": "Capability"
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 47
+                        }
+                    ]
+                ]
+            },
+            ":0 S067": {
+                "kll": "S0x043 : layerShift(1);",
+                "result": [
+                    [
+                        {
+                            "args": [
+                                {
+                                    "type": "CapArgValue",
+                                    "value": 1
+                                }
+                            ],
+                            "name": "layerShift",
+                            "type": "Capability"
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 67
+                        }
+                    ]
+                ]
+            }
+        },
+        "4": {
+            ":0 S038": {
+                "kll": "S0x026 : U0x04a;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 74
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 38
+                        }
+                    ]
+                ]
+            },
+            ":0 S039": {
+                "kll": "S0x027 : U0x04e;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 78
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 39
+                        }
+                    ]
+                ]
+            },
+            ":0 S040": {
+                "kll": "S0x028 : U0x04b;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 75
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 40
+                        }
+                    ]
+                ]
+            },
+            ":0 S041": {
+                "kll": "S0x029 : U0x04d;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 77
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 41
+                        }
+                    ]
+                ]
+            },
+            ":0 S061": {
+                "kll": "S0x03d : SYS0x082;",
+                "result": [
+                    [
+                        {
+                            "type": "SysCode",
+                            "uid": 130
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 61
                         }
                     ]
                 ]

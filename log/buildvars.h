@@ -39,9 +39,9 @@
 
 
 // Strings used in the CLI module
-#define CLI_Revision            "21274088c07403605129b1a4b44f4a11126c1319"
-#define CLI_RevisionNumber      821
-#define CLI_RevisionNumberStr   "821"
+#define CLI_Revision            "51e7d3786670986e2a0ae69399dc303cd10a5f8a"
+#define CLI_RevisionNumber      832
+#define CLI_RevisionNumberStr   "832"
 #define CLI_Version             "0.4.9"
 #define CLI_VersionRevision     "2dd024f4a88ea3c53d1d3eac7e6dadcef3f04769"
 #define CLI_VersionRevNumber    723
@@ -50,10 +50,10 @@
 #define CLI_ModifiedStatus      "Clean"
 #define CLI_ModifiedFiles       "\r\n\t"
 #define CLI_RepoOrigin          "https://github.com/kiibohd/controller.git"
-#define CLI_CommitDate          "2018-03-05 19:33:38 -0800"
+#define CLI_CommitDate          "2018-03-18 11:09:55 -0700"
 #define CLI_CommitAuthor        "Jacob Alexander <haata@kiibohd.com>"
 #define CLI_Modules             "Scan(WhiteFox:truefox) Macro(PixelMap) Output(USB) Debug(full)"
-#define CLI_BuildDate           "2018-03-31 18:42:35 +0000"
+#define CLI_BuildDate           "2018-04-01 00:25:39 +0000"
 #define CLI_BuildOS             "Ubuntu 14.04.5 LTS trusty"
 #define CLI_BuildCompiler       "/usr/bin/arm-none-eabi-gcc "
 #define CLI_Arch                "arm"
@@ -69,5 +69,5 @@
 // match the INF file.
 #define VENDOR_ID               0x1C11
 #define PRODUCT_ID              0xB04D
-#define BCD_VERSION             821
+#define BCD_VERSION             832
 

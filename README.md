@@ -5,3 +5,21 @@ Currently, I'm experimenting with raised keys over on the right like Delete and 
 ![My WhiteFox layout](./images/whitefox_v1.jpg)
 
 ![My WhiteFox config](./images/whitefox_config_v1.png)
+
+Not included in the images, this version enables vi-style keys for 'browser mode' in layers 3 & 4. 
+Layer 3:
+========
+j = down arrow
+k = up arrow
+h = left arrow
+l = right arrow
+
+the left shift key is the modifier to enable layer 4:
+Layer 4:
+========
+j = page down
+k = page up
+h = home
+l = end
+
+Also explicitly reset the media and sleep keys in 3 and 4 in a hopefully sensible manner.

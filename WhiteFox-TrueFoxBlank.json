@@ -1,13 +1,13 @@
 {
     "header": {
         "Name": "WhiteFox",
-        "Variant": "afox",
-        "Layout": "aFoxStart",
+        "Variant": "truefox",
+        "Layout": "TrueFoxBlank",
         "Base": "TheTrueFoxBase",
-        "Version": "0.1",
-        "Author": "Rick Rezinas (credit HaaTa 2015) 2018",
+        "Version": "0.2",
+        "Author": "HaaTa (Jacob Alexander) 2015",
         "KLL": "0.3c",
-        "Date": "2018-03-31",
+        "Date": "2016-05-30",
         "Generator": "KIICONF 0.2"
     },
     "defines": [
@@ -205,6 +205,10 @@
                 "1": {
                     "key": "F9",
                     "label": "F9"
+                },
+                "3": {
+                    "key": "#:'~'",
+                    "label": "~"
                 }
             }
         },
@@ -222,6 +226,10 @@
                 "1": {
                     "key": "F10",
                     "label": "F10"
+                },
+                "3": {
+                    "key": "#:'!'",
+                    "label": "!"
                 }
             }
         },
@@ -237,6 +245,10 @@
                     "label": "-"
                 },
                 "1": {
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
+                },
+                "3": {
                     "key": "CONS:VOLUMEDOWN",
                     "label": "VOL-"
                 }
@@ -256,6 +268,10 @@
                 "1": {
                     "key": "CONS:VOLUMEUP",
                     "label": "VOL+"
+                },
+                "3": {
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
                 }
             }
         },
@@ -273,6 +289,10 @@
                 "1": {
                     "key": "CONS:PLAY",
                     "label": "PLAY"
+                },
+                "3": {
+                    "key": "CONS:PLAY",
+                    "label": "PLAY"
                 }
             }
         },
@@ -288,6 +308,10 @@
                     "label": "`"
                 },
                 "1": {
+                    "key": "CONS:PAUSE",
+                    "label": "PAUSE"
+                },
+                "3": {
                     "key": "CONS:PAUSE",
                     "label": "PAUSE"
                 }
@@ -318,6 +342,10 @@
                     "label": "TAB"
                 },
                 "1": {
+                    "key": "CONS:SCANNEXTTRACK",
+                    "label": "NEXT"
+                },
+                "3": {
                     "key": "CONS:SCANNEXTTRACK",
                     "label": "NEXT"
                 }
@@ -493,6 +521,10 @@
                 "1": {
                     "key": "CONS:SCANPREVIOUSTRACK",
                     "label": "PREV"
+                },
+                "3": {
+                    "key": "CONS:SCANPREVIOUSTRACK",
+                    "label": "PREV"
                 }
             }
         },
@@ -508,6 +540,10 @@
                     "label": "DEL"
                 },
                 "1": {
+                    "key": "CONS:STOP",
+                    "label": "STOP"
+                },
+                "3": {
                     "key": "CONS:STOP",
                     "label": "STOP"
                 }
@@ -601,6 +637,14 @@
                 "0": {
                     "key": "H",
                     "label": "H"
+                },
+                "3": {
+                    "key": "LEFT",
+                    "label": "\u2190"
+                },
+                "4": {
+                    "key": "HOME",
+                    "label": "HOME"
                 }
             }
         },
@@ -614,6 +658,14 @@
                 "0": {
                     "key": "J",
                     "label": "J"
+                },
+                "3": {
+                    "key": "DOWN",
+                    "label": "\u2193"
+                },
+                "4": {
+                    "key": "PAGEDOWN",
+                    "label": "PGDN"
                 }
             }
         },
@@ -627,6 +679,14 @@
                 "0": {
                     "key": "K",
                     "label": "K"
+                },
+                "3": {
+                    "key": "UP",
+                    "label": "\u2191"
+                },
+                "4": {
+                    "key": "PAGEUP",
+                    "label": "PGUP"
                 }
             }
         },
@@ -640,6 +700,14 @@
                 "0": {
                     "key": "L",
                     "label": "L"
+                },
+                "3": {
+                    "key": "RIGHT",
+                    "label": "\u2192"
+                },
+                "4": {
+                    "key": "END",
+                    "label": "END"
                 }
             }
         },
@@ -705,6 +773,10 @@
                 "0": {
                     "key": "LSHIFT",
                     "label": "L\u21d1"
+                },
+                "3": {
+                    "key": "FUN4",
+                    "label": "\u01924"
                 }
             }
         },
@@ -880,6 +952,10 @@
                     "label": "\u01922"
                 },
                 "1": {
+                    "key": "SYS:SLEEP",
+                    "label": "SLEEP"
+                },
+                "4": {
                     "key": "SYS:SLEEP",
                     "label": "SLEEP"
                 }
