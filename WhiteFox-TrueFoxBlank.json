@@ -24,10 +24,6 @@
                 "0": {
                     "key": "ESC",
                     "label": "ESC"
-                },
-                "1": {
-                    "key": "LCK1",
-                    "label": "LOCK-1"
                 }
             }
         },

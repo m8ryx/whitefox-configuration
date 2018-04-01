@@ -1800,31 +1800,6 @@
             }
         },
         "1": {
-            ":0 S001": {
-                "kll": "S0x001 : layerLock(1);",
-                "result": [
-                    [
-                        {
-                            "args": [
-                                {
-                                    "type": "CapArgValue",
-                                    "value": 1
-                                }
-                            ],
-                            "name": "layerLock",
-                            "type": "Capability"
-                        }
-                    ]
-                ],
-                "trigger": [
-                    [
-                        {
-                            "type": "ScanCode",
-                            "uid": 1
-                        }
-                    ]
-                ]
-            },
             ":0 S002": {
                 "kll": "S0x002 : U0x03a;",
                 "result": [
