@@ -63,55 +63,55 @@
 //    --pixel-output
 //      generatedPixelmap.c
 //    --preprocessor-tmp-path
-//      /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll
+//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll
 //
 // - Configuration File -
 //    ISSILedCapabilities
-//      /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/_srv_KiiConf_controller_Scan_Devices_ISSILed@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Scan_Devices_ISSILed@['capabilities']_processed.kll
 //    MatrixARMPeriodicCapabilities
-//      /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/_srv_KiiConf_controller_Scan_Devices_MatrixARMPeriodic@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Scan_Devices_MatrixARMPeriodic@['capabilities']_processed.kll
 //    PartialMapCapabilities
-//      /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/_srv_KiiConf_controller_Macro_PartialMap@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Macro_PartialMap@['capabilities']_processed.kll
 //    PixelMapCapabilities
-//      /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/_srv_KiiConf_controller_Macro_PixelMap@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Macro_PixelMap@['capabilities']_processed.kll
 //    HID-IOCapabilities
-//      /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/_srv_KiiConf_controller_Output_HID-IO@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Output_HID-IO@['capabilities']_processed.kll
 //    USBCapabilities
-//      /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/_srv_KiiConf_controller_Output_USB@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Output_USB@['capabilities']_processed.kll
 //    latency
-//      /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/_srv_KiiConf_controller_Debug_latency@['capabilities']_processed.kll
+//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Debug_latency@['capabilities']_processed.kll
 // - Generic Files -
 // - Base Layer -
 //    WhiteFox
-//      /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/_srv_KiiConf_controller_Scan_WhiteFox@['scancode_map']_processed.kll
+//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Scan_WhiteFox@['scancode_map']_processed.kll
 //    TrueFox
-//      /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/_srv_KiiConf_controller_Scan_WhiteFox@['scancode_map', 'truefox']_processed.kll
+//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_Scan_WhiteFox@['scancode_map', 'truefox']_processed.kll
 // - Default Layer -
 //    stdFuncMap
-//      /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
 //    WhiteFox
-//      /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/@['WhiteFox-TrueFoxBlank-0']_processed.kll
+//      /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/@['WhiteFox-TrueFoxBlank-0']_processed.kll
 // - Partial Layers -
 //    Layer 1
 //     stdFuncMap
-//       /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
 //     WhiteFox
-//       /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/@['WhiteFox-TrueFoxBlank-1']_processed.kll
+//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/@['WhiteFox-TrueFoxBlank-1']_processed.kll
 //    Layer 2
 //     stdFuncMap
-//       /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
 //     WhiteFox
-//       /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/@['WhiteFox-TrueFoxBlank-2']_processed.kll
+//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/@['WhiteFox-TrueFoxBlank-2']_processed.kll
 //    Layer 3
 //     stdFuncMap
-//       /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
 //     WhiteFox
-//       /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/@['WhiteFox-TrueFoxBlank-3']_processed.kll
+//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/@['WhiteFox-TrueFoxBlank-3']_processed.kll
 //    Layer 4
 //     stdFuncMap
-//       /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
+//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/_srv_KiiConf_controller_kll_layouts@['stdFuncMap']_processed.kll
 //     WhiteFox
-//       /srv/KiiConf/tmp/e20afb105728775799a7488d4572d41415ac105d83aae4/tmp_kll/@['WhiteFox-TrueFoxBlank-4']_processed.kll
+//       /srv/KiiConf/tmp/a808a09762ab03dec23f3c0f18b1eccb15ac106eb6fbfb/tmp_kll/@['WhiteFox-TrueFoxBlank-4']_processed.kll
 
 
 
@@ -253,7 +253,7 @@ typedef enum CapabilityIndex {
 // -- Built-in Defines --
 #define CapabilitiesNum_KLL 21
 #define LayerNum_KLL 5
-#define ResultMacroNum_KLL 100
+#define ResultMacroNum_KLL 99
 #define TriggerMacroNum_KLL 109
 #define MaxScanCode_KLL 71
 #define Pixel_BuffersLen_KLL 1
