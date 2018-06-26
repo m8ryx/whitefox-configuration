@@ -40,6 +40,8 @@ Browsing Layer
 - Media Controls as Layer 1
 - Fn key gives L4
 
+![Layer 3 layout](./images/layer3.png)
+
 ### Layer 4:
 Browsing modifier layer
 - j = page down
@@ -49,8 +51,12 @@ Browsing modifier layer
 - Also explicitly reset the media and sleep keys in 3 and 4 in a hopefully sensible manner.
 - similar to L1 functionality
 
+![Layer 4 layout](./images/layer4.png)
+
 ### Layer 7:
 Chuck Norris mode (backspace/del disabled)
+
+![Chuck Norris layout](./images/chuk_norris.png)
 
 ### Notes
 Discovered that f1 does not send to main...so couldn't get back to typing. Now f1-ESC and f2-ESC both do None layers.
