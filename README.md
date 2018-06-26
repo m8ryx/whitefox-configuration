@@ -2,8 +2,6 @@ this is my configuration for my Whitefox and Nightfox keyboards, produced by Imp
 
 Currently, I'm experimenting with raised keys over on the right like Delete and PrScr, we'll see where that lands. Mute is prominent because...well, sometimes your computer just needs to STFU immediately. Other audio controls are in layer one, accessed by the lower function key. Layer 2 is the place to access other layers, accessed by using the Star key, which will put your machine down for a nap in Layer 1.
 
-![My WhiteFox layout](./images/whitefox_v1.jpg)
-
 ![My WhiteFox config](./images/whitefox_config_v1.png)
 
 Not included in the images, this version enables vi-style keys for 'browser mode' in layers 3 & 4. 
@@ -27,9 +25,13 @@ Function Layer
 - Left = Home
 - Star = Sleep
 
+![My WhiteFox config - layer 1](./images/layer1.png)
+
 ### Layer 2:
 Locking Layer
 - 1-7 = Lock-1 - Lock-7
+
+![Layer 1 and 2 layout](./images/layers1_2.png)
 
 ### Layer 3:
 Browsing Layer
